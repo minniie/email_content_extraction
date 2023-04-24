@@ -43,7 +43,9 @@ class SquadCollator():
         # proper padding for huggingface i/o
         input_ids, labels = [], []
         for c_and_q, a in zip(contexts_and_questions, answers):
-            c_and_q_ids = self.tokenizer.encode(c_and_q)
+            c_and_q_ids = self.tokenizer.encode(
+                c_and_q, max_length=768, truncation=True
+            )
             a_ids = self.tokenizer.encode(a)
             input_ids.append(torch.LongTensor(c_and_q_ids + a_ids))
             labels.append(torch.LongTensor(len(c_and_q_ids)*[-100] + a_ids))

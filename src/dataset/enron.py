@@ -1,4 +1,4 @@
-class EmailSumDataset():
+class EnronDataset():
 
     def __init__(
             self
@@ -11,7 +11,7 @@ class EmailSumDataset():
         raise NotImplementedError
 
 
-class EmailSumCollator():
+class EnronCollator():
 
     def __init__(
             self

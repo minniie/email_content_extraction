@@ -2,7 +2,7 @@ from argparse import ArgumentTypeError
 
 from transformers import Trainer
 
-from src.dataset.emailsum import EmailSumDataset, EmailSumCollator
+from src.dataset.emailsum import EnronDataset, EnronCollator
 from src.dataset.squad import SquadDataset, SquadCollator
 from src.model.extractor import EmailExtractorModel
 from src.util.args import set_args
@@ -18,8 +18,8 @@ def main():
     model = model_cls.load_model()
 
     # load dataset and collator
-    if data_args.dataset_name == "emailsum":
-        dataset_cls, collator_cls = EmailSumDataset, EmailSumCollator
+    if data_args.dataset_name == "enron":
+        dataset_cls, collator_cls = EnronDataset, EnronCollator
     elif data_args.dataset_name == "squad":
         dataset_cls, collator_cls = SquadDataset, SquadCollator
     else:
