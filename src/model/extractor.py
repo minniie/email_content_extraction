@@ -14,12 +14,16 @@ class EmailExtractorModel():
     def load_tokenizer(
             self
         ):
-        tokenizer = GPT2Tokenizer.from_pretrained(self.model_name_or_path)
-        return tokenizer
+        self.tokenizer = GPT2Tokenizer.from_pretrained(self.model_name_or_path)
+        self.tokenizer.add_special_tokens({"pad_token": "<pad>"})
+
+        return self.tokenizer
 
     def load_model(
             self
         ):
-        model = GPT2LMHeadModel.from_pretrained(self.model_name_or_path)
-        return model
+        self.model = GPT2LMHeadModel.from_pretrained(self.model_name_or_path)
+        self.model.to("cuda")
+        self.model.resize_token_embeddings(len(self.tokenizer))
         
+        return self.model
