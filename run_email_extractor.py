@@ -2,7 +2,7 @@ from argparse import ArgumentTypeError
 
 from transformers import Trainer
 
-from src.dataset.emailsum import EnronDataset, EnronCollator
+from src.dataset.enron import EnronDataset, EnronCollator
 from src.dataset.squad import SquadDataset, SquadCollator
 from src.model.extractor import EmailExtractorModel
 from src.util.args import set_args

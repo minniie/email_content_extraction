@@ -18,6 +18,7 @@ class SquadDataset():
 
 
 class SquadCollator():
+    
     def __init__(
             self,
             tokenizer
@@ -44,7 +45,7 @@ class SquadCollator():
         input_ids, labels = [], []
         for c_and_q, a in zip(contexts_and_questions, answers):
             c_and_q_ids = self.tokenizer.encode(
-                c_and_q, max_length=768, truncation=True
+                c_and_q, max_length=512, truncation=True
             )
             a_ids = self.tokenizer.encode(a)
             input_ids.append(torch.LongTensor(c_and_q_ids + a_ids))
