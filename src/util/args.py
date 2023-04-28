@@ -18,6 +18,12 @@ class ModelArguments:
             "help": "model name or path"
         }
     )
+    load_finetuned_model: bool = field(
+        default=False,
+        metadata={
+            "help": "whether to load finetuned model"
+        }
+    )
 
 
 @dataclass
@@ -29,6 +35,12 @@ class DataArguments:
         default=None,
         metadata={
             "help": "dataset name"
+        }
+    )
+    dataset_format: str = field(
+        default=None,
+        metadata={
+            "help": "dataset style for preprocessing princeton email dataset"
         }
     )
 

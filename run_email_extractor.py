@@ -4,6 +4,7 @@ from transformers import Trainer
 
 from src.dataset.enron import EnronDataset, EnronCollator
 from src.dataset.squad import SquadDataset, SquadCollator
+from src.dataset.princeton_email import PrincetonEmailDataset, PrincetonEmailCollator
 from src.model.extractor import EmailExtractorModel
 from src.util.args import set_args
 
@@ -13,7 +14,7 @@ def main():
     model_args, data_args, training_args = set_args()
 
     # load model
-    model_cls = EmailExtractorModel(model_args.model_name_or_path)
+    model_cls = EmailExtractorModel(model_args)
     tokenizer = model_cls.load_tokenizer()
     model = model_cls.load_model()
 
@@ -22,10 +23,12 @@ def main():
         dataset_cls, collator_cls = EnronDataset, EnronCollator
     elif data_args.dataset_name == "squad":
         dataset_cls, collator_cls = SquadDataset, SquadCollator
+    elif data_args.dataset_name == "princeton_email":
+        dataset_cls, collator_cls = PrincetonEmailDataset, PrincetonEmailCollator
     else:
         raise ArgumentTypeError(f"dataset not supported: {data_args.dataset_name}")
     dataset = dataset_cls().load()
-    collator = collator_cls(tokenizer)
+    collator = collator_cls(tokenizer, data_args)
 
     # load trainer
     trainer =  Trainer(

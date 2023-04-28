@@ -6,6 +6,9 @@ import torch
 from torch.nn.utils.rnn import pad_sequence
 
 
+DATA_PATH = "/mnt/16tb/minyoung/data/enron/enron.json"
+
+
 class EnronDataset():
 
     def __init__(
@@ -17,8 +20,7 @@ class EnronDataset():
             self
         ):
         # load preprocessed enron dataset from local directory
-        data_path = "/mnt/16tb/minyoung/data/enron/enron.json"
-        with open(data_path, "r") as f:
+        with open(DATA_PATH, "r") as f:
             data = json.load(f)
         
         # train and valid split 
@@ -36,7 +38,8 @@ class EnronCollator():
 
     def __init__(
             self,
-            tokenizer
+            tokenizer,
+            data_args
         ): 
         self.tokenizer = tokenizer
 
