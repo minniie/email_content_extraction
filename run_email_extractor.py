@@ -28,7 +28,7 @@ def main():
     else:
         raise ArgumentTypeError(f"dataset not supported: {data_args.dataset_name}")
     dataset = dataset_cls().load()
-    collator = collator_cls(tokenizer, data_args)
+    collator = collator_cls(tokenizer)
 
     # load trainer
     trainer =  Trainer(

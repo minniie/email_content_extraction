@@ -21,8 +21,7 @@ class SquadCollator():
     
     def __init__(
             self,
-            tokenizer,
-            data_args
+            tokenizer
         ): 
         self.tokenizer = tokenizer
     

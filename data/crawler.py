@@ -22,7 +22,7 @@ import re
 from bs4 import BeautifulSoup
 
 CREDENTIALS_PATH = "/mnt/16tb/minyoung/data/crawler/credentials.yml"
-OUTPUT_PATH = "/mnt/16tb/minyoung/data/crawler/princeton_emails.json"
+OUTPUT_PATH = "/mnt/16tb/minyoung/data/crawler/princeton_emails_v2.json"
 REMOVE_START = "This email was instantly sent to all"
 
 
@@ -75,6 +75,7 @@ for num in mail_id_list:
 
 # NOTE that a Message object consists of headers and payloads.
 
+print(len(msgs))
 emails = []
 for msg in msgs[::-1]:
     for response_part in msg:
@@ -90,10 +91,14 @@ for msg in msgs[::-1]:
                     body = BeautifulSoup(body, "lxml").text
                     body = body.split(REMOVE_START)[0].strip()
                     emails.append({
-                        "content": "",
+                        "location": "",
+                        "time": "",
+                        "organization": "",
+                        "title": "",
+                        "guests": "",
+                        "required": "",
                         "body": body
                     })
-    break
 
 emails_filtered = list(filter(lambda e: len(e["body"]) > 10, emails))
 print(len(emails_filtered))

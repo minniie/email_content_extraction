@@ -17,6 +17,7 @@ class EmailExtractorModel():
             self
         ):
         self.tokenizer = GPT2Tokenizer.from_pretrained(self.model_name_or_path)
+        self.tokenizer.truncation_side = "left"
         if not self.load_finetuned_model:
             self.tokenizer.add_special_tokens({"pad_token": "<pad>"})
 

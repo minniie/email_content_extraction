@@ -37,12 +37,6 @@ class DataArguments:
             "help": "dataset name"
         }
     )
-    dataset_format: str = field(
-        default=None,
-        metadata={
-            "help": "dataset style for preprocessing princeton email dataset"
-        }
-    )
 
 
 def set_args():

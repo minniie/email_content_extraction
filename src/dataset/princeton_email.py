@@ -7,13 +7,12 @@ from torch.nn.utils.rnn import pad_sequence
 
 
 DATA_PATH = "/mnt/16tb/minyoung/data/crawler/princeton_emails.json"
-SQUAD_LIKE_QUESTIONS = {
+QUESTIONS = {
     "location": "Where does this event take place?",
     "time": "When does this event take place?",
     "organization": "What is the hosting organization of the event?",
     "title": "What is the title of the event?",
-    "guests": "Who are the guests of this event?",
-    "required": "What is required for this event?"
+    "guests": "Who are the guests of this event?"
 }
 
 
@@ -31,11 +30,31 @@ class PrincetonEmailDataset():
         with open(DATA_PATH, "r") as f:
             data = json.load(f)
         
+        # preprocess data
+        n_emails = 0
+        preprocessed_data = []
+        for d in data:
+            new_d = {k: v for k, v in d.items() if v}
+            if len(new_d) > 1:
+                n_emails += 1
+                body = new_d.pop("body")
+                for k, v in new_d.items():
+                    preprocessed_data.append({
+                        "body": d["body"],
+                        "question": QUESTIONS[k],
+                        "answer": v
+                    })
+
         # train and valid split 
-        split = math.floor(len(data) / 5)
-        random.shuffle(data)
-        train_data = data[split:]
-        valid_data = data[:split]
+        split = math.floor(len(preprocessed_data) / 5)
+        random.shuffle(preprocessed_data)
+        train_data = preprocessed_data[split:]
+        valid_data = preprocessed_data[:split]
+        print(
+            f">>> # emails: {n_emails}\n"
+            f">>> # train samples: {len(train_data)}\n"
+            f">>> # valid samples: {len(valid_data)}"
+        )
         return {
             "train": train_data,
             "validation": valid_data
@@ -46,22 +65,20 @@ class PrincetonEmailCollator():
 
     def __init__(
             self,
-            tokenizer,
-            data_args
+            tokenizer
         ):
         self.tokenizer = tokenizer
-        self.dataset_format = data_args.dataset_format
 
     def __call__(self, samples):
         # get body as input, content as output
         bodies, contents = [], []
         for sample in samples:
-            
             bodies.append(
-                sample["body"] + self.tokenizer.eos_token
+                sample["body"] + self.tokenizer.eos_token \
+                + sample["question"] + self.tokenizer.eos_token
             )
             contents.append(
-                sample["content"] + self.tokenizer.eos_token
+                sample["answer"] + self.tokenizer.eos_token
             )
 
         # comment out for debugging
