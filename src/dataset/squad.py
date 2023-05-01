@@ -14,6 +14,10 @@ class SquadDataset():
             self
         ):
         dataset = load_dataset('squad')
+        print(
+            f">>> # train samples: {len(dataset['train'])}\n"
+            f">>> # valid samples: {len(dataset['validation'])}"
+        )
         return dataset
 
 

@@ -1,7 +1,7 @@
 export PYTHONPATH=.
 export HF_DATASETS_CACHE="/mnt/16tb/minyoung/data/huggingface"
 
-CUDA_VISIBLE_DEVICES=3 \
+CUDA_VISIBLE_DEVICES=2 \
 python3 run_email_extractor.py \
     --do_train \
     --dataset_name enron \

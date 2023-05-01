@@ -41,8 +41,11 @@ def main():
         data_collator=collator,
         callbacks=[MetricCallback]
     )
-    trainer.train()
-    trainer.save_model()
+    if training_args.do_train:
+        trainer.train()
+        trainer.save_model()
+    if training_args.do_eval:
+        trainer.evaluate()
 
 
 if __name__ == "__main__":

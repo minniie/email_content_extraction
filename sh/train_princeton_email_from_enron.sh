@@ -6,7 +6,7 @@ python3 run_email_extractor.py \
     --do_train \
     --dataset_name princeton_email \
     --load_finetuned_model True \
-    --model_name_or_path /mnt/16tb/minyoung/checkpoints/email_content_extraction/enron_preprocessed/checkpoint-16764 \
+    --model_name_or_path /mnt/16tb/minyoung/checkpoints/email_content_extraction/enron_preprocessed/checkpoint-22353 \
     --output_dir /mnt/16tb/minyoung/checkpoints/email_content_extraction/princeton_email_enron \
     --num_train_epochs 20 \
     --per_device_train_batch_size 4 \

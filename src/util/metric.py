@@ -1,5 +1,7 @@
+import os
 import math
 import random
+import json
 
 import torch
 from transformers.integrations import TensorBoardCallback
@@ -7,9 +9,14 @@ from transformers.integrations import TensorBoardCallback
 from src.util.text import clean_decode, compute_f1
   
 
+SAVE_PATH = "\mnt"
+
+
 class MetricCallback(TensorBoardCallback):
     
     def on_evaluate(self, args, state, control, **kwargs):
+        print(args.output_dir)
+        
         # get model and dataset
         model = kwargs["model"]
         tokenizer = kwargs["tokenizer"]
@@ -41,20 +48,19 @@ class MetricCallback(TensorBoardCallback):
             self.tb_writer.add_scalar("eval/ppl", ppl, state.global_step)
             self.tb_writer.add_scalar("eval/f1", f1, state.global_step)
         
-        # if evaluation mode, print metrics
+        # if evaluation mode, print metrics and save results
         if args.do_eval:
             print(
                 f"... Metrics\n"
                 f"> eval/ppl\n{ppl}\n"
                 f"> eval/f1\n{f1}"
             )
-
-        # print sample responses
-        indices = random.sample(range(len(preds_text)), 5)
-        for idx in indices:
-            print(
-                f"... Evaluation samples\n"
-                f"> email body\n{inputs_text[idx]}\n"
-                f"> pred content\n{preds_text[idx]}\n"
-                f"> gold content\n{labels_text[idx]}"
-            )
+            results = []
+            for inp, pred, label in zip(inputs_text, preds_text, labels_text):
+                results.append({
+                    "input": inp,
+                    "pred_output": pred,
+                    "gold_output": label
+                })
+            with open(os.path.join(args.output_dir, "output.json"), "w") as f:
+                json.dump(results, f, ensure_ascii=False, indent=4)
