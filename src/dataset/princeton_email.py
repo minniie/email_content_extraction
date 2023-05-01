@@ -5,6 +5,8 @@ import json
 import torch
 from torch.nn.utils.rnn import pad_sequence
 
+from src.util.text import clean_text
+
 
 DATA_PATH = "/mnt/16tb/minyoung/data/crawler/princeton_emails.json"
 QUESTIONS = {
@@ -34,13 +36,13 @@ class PrincetonEmailDataset():
         n_emails = 0
         preprocessed_data = []
         for d in data:
-            new_d = {k: v for k, v in d.items() if v}
+            new_d = {k: clean_text(v) for k, v in d.items() if v}
             if len(new_d) > 1:
                 n_emails += 1
                 body = new_d.pop("body")
                 for k, v in new_d.items():
                     preprocessed_data.append({
-                        "body": d["body"],
+                        "body": body,
                         "question": QUESTIONS[k],
                         "answer": v
                     })

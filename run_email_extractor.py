@@ -7,6 +7,7 @@ from src.dataset.squad import SquadDataset, SquadCollator
 from src.dataset.princeton_email import PrincetonEmailDataset, PrincetonEmailCollator
 from src.model.extractor import EmailExtractorModel
 from src.util.args import set_args
+from src.util.metric import MetricCallback
 
 
 def main():
@@ -37,7 +38,8 @@ def main():
         tokenizer=tokenizer,
         train_dataset=dataset["train"],
         eval_dataset=dataset["validation"],
-        data_collator=collator
+        data_collator=collator,
+        callbacks=[MetricCallback]
     )
     trainer.train()
     trainer.save_model()
