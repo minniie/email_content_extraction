@@ -5,8 +5,8 @@ CUDA_VISIBLE_DEVICES=2 \
 python3 run_email_extractor.py \
     --do_train \
     --dataset_name squad \
-    --model_name_or_path gpt2-medium \
-    --output_dir /mnt/16tb/minyoung/checkpoints/email_content_extraction/squad \
+    --model_name_or_path gpt2 \
+    --output_dir /mnt/16tb/minyoung/checkpoints/email_content_extraction/squad_gpt_small \
     --num_train_epochs 10 \
     --per_device_train_batch_size 4 \
     --gradient_accumulation_steps 4 \
