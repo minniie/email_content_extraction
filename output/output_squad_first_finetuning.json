@@ -1,0 +1,3330 @@
+[
+    {
+        "input": [
+            "Dear creative-ish person,We are looking for YOU to submit to RAH RAH Arts Magazine, Princeton’s only campus-wide visual arts publication. RAH RAH is open to students, staff, professors, and alumni, publishing art in all mediums. Everyone who submits gets accepted! Submit by the end of the semester!We are looking for submissions of any way that you express your creativity visually! This could include paintings, 30-second drawings, photographs, at-home quarantine crochet projects, videos, engineered structures (pasta bridges anyone?), computer modeling, interior or graphic design, archeological findings, latte art, rock collections, sculptures, protest signs, an xray of a broken bone, food creations, whatever you consider to be art in any way you document it! Please submit via email to rahrah@princeton.edu and include the file of your work, the name of the work, your artist name, and your association with Princeton (if you are a student, staff member…). We are also offering nice photography of work! We will be taking photos on the third floor or the VIS building (185 Nassau St.) this Saturday, April 29th, from 12-4. Stop in whenever! Please reach out if you want photographs and that day doesn't work for you! You can follow us on instagram @rahrah_visualarts.<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "April",
+            " 29",
+            "th"
+        ],
+        "gold_output": [
+            "this",
+            " Saturday",
+            ",",
+            " April",
+            " 29",
+            "th",
+            ",",
+            " from",
+            " 12",
+            "-",
+            "4"
+        ]
+    },
+    {
+        "input": [
+            "Hark, ye false swirlings!The time is almost upon us. Elias Mayfig Mosby is preparing to star in his final improv comedy show before the darkness claims him. This Thursday and Saturday, at 10:30 PM, in FRIST THEATER, watch Eli as he struggles to come to terms with the vast unreality of his wretched life, and maybe also as he makes you giggle with funny improv.THESE ARE FUZZY DICE'S LAST SHOWS OF THE YEAR!!!!!!!! FOLLOW US INTO THE VOID, SWEET CHILDREN. HITHER, HENCE, FORTHWITH!!!Buy your ethereal coupons at tickets.princeton.edu. This trip to the edge of time, space, life, and death is passport to the arts eligible, so you can get it for free!Regards,The Harbingers of Doomor(fuzzy dice)<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "FR",
+            "IST",
+            " THE",
+            "ATER"
+        ],
+        "gold_output": [
+            "FU",
+            "ZZ",
+            "Y",
+            " D",
+            "ICE"
+        ]
+    },
+    {
+        "input": [
+            "TL;DR — EARTH DAY FESTIVAL  HOSTED BY PRINCETON ENVIRONMENTAL GROUPS TODAY, FIRESTONE PLAZA, 2-3:30 PMCome out to a FABULOUS EARTH DAY FESTIVAL, TODAY, from 2-3:30 PM at Firestone Plaza.There will be FUN!SPEECHES!OUTDOOR GAMES!FACE PAINTING and PLANT POT DECORATING!FOOD from local vendors like JAMMIN’ CREPES and TERHUNE ORCHARDS!Join Princeton’s environmental groups and activists for an afternoon of celebration of our planet, listen in on incredible student speakers, and get fired up to fight for our planet.SEE YOU THERE!Princeton Environmental Activism CoalitionDivest PrincetonPrinceton College DemocratsPrinceton Student Climate InitiativePrinceton Garden ProjectPrinceton University Energy AssociationPrinceton YDSASpecial thanks to the Projects Boards and the Pace Center for making this festival possible!<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Earth",
+            " Day",
+            " F",
+            "est",
+            "iv",
+            "al"
+        ],
+        "gold_output": [
+            "EAR",
+            "TH",
+            " DAY",
+            " F",
+            "EST",
+            "IV",
+            "AL"
+        ]
+    },
+    {
+        "input": [
+            "Please join us this Thursday, April 20 at 7:00 PM in McCosh 50 for the 2023 Anthony B. Evnin Lecture, \"Conservation Photography - Stories from the Field\". In this talk, award-winning scientists turned wildlife photographers and National Geographic Explorers Jen Guyton *18 (EEB) and Prasenjeet Yadav will share photos and stories from the savannas of Africa to the highest peaks of the Himalaya and discuss their journeys to becoming storytellers. Free raffle of signed prints!   This event is free and open to the public, but REGISTRATION IS REQUIRED: https://cst.princeton.edu/events/conservation-photography Questions? Contact PrincetonCST@princeton.edu<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "McC",
+            "osh",
+            " 50"
+        ],
+        "gold_output": [
+            "McC",
+            "osh",
+            " 50"
+        ]
+    },
+    {
+        "input": [
+            "Hello Princeton!TL;DR: You're invited to a debate on banning TikTok TODAY at 5:30 PM in the Whig Hall Senate Chamber. Onigiri and other snacks from Mariuchi on us!------Following a wave of restrictions and outright bans on TikTok in other countries and U.S states, the Congress is now considering further restrictions, or even an outright ban, on TikTok, citing threats to national security, user privacy, censorship, and disinformation. However, opponents to the ban argue that banning TikTok would violate the First Amendment, and would fail to address larger issues surrounding how social media companies in general operate.You're invited to the Senate today at 5:30 PM in the Whig Hall Senate Chamber to listen to and speak on the arguments for and against banning TikTok in the United States! For more information on the debate, and on how Senate Debates work, check out our briefing at tinyurl.com/wctiktok. If you have any other questions, feel free to reach out to danielshaw@princeton.edu. Senate Debates are open to all members of the Princeton community, regardless of experience. We can't wait to see you there!The Whig-Clio Senate.<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "5",
+            ":",
+            "30",
+            " PM"
+        ],
+        "gold_output": [
+            "today",
+            " at",
+            " 5",
+            ":",
+            "30",
+            " PM"
+        ]
+    },
+    {
+        "input": [
+            "Hi Princeton!!Do you want to learn about the first-ever drag queen? Hear from an industry professional about historical journalism? Munch on some free fruit and cheese from Olives? Come to this year's Rukeyser Lecture today at 7pm in Robertson 100!Visiting Journalism professor Channing Joseph will be discussing his decades of experience investigating incredible figures in Black queer history and publishing historical journalism pieces in publications like BBC!Hope to see you there!Best,The University Press Club<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "R",
+            "uke",
+            "ys",
+            "er",
+            " Lect",
+            "ure"
+        ],
+        "gold_output": [
+            "R",
+            "uke",
+            "ys",
+            "er",
+            " Lect",
+            "ure"
+        ]
+    },
+    {
+        "input": [
+            "Hi everyone,We are so excited to invite everyone to Environmental Shabbat this Friday at 7:30pm! Please see below for the exciting programming and dinner we have planned.The menu:Ancient grain stuffed peppers.Beyond burger marsala.Vegetarian balls.Spaghetti.Chunky tomato sauce.Glaze sweet potatoes.Roasted green beans.There will also be a vegan reception as well as vegan ice cream at the panel after dinner!Please fill out this form to let us know whether or not you'd want to eat dinner with our amazing panelists in the innovation dinner to get to know them better! You'd have the opportunity to get to know Liana Rothman, teh co-founder/direcor of the Jewish Youth Climate Movement, Rabbi Akiva Gersh, the \"Vegan Rabbi\"/teacher/writer, and Professor Daniel Rubenstein, a professor of zoology and EEB at Princeton.  Please also fill out this form to contribute memos for decoration!<|endoftext|>Who are the guests of this event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Environmental",
+            " Sh",
+            "abb",
+            "at"
+        ],
+        "gold_output": [
+            "L",
+            "iana",
+            " Roth",
+            "man",
+            ",",
+            " Rabbi",
+            " Ak",
+            "iva",
+            " G",
+            "ers",
+            "h",
+            ",",
+            " and",
+            " Professor",
+            " Daniel",
+            " Rub",
+            "enstein"
+        ]
+    },
+    {
+        "input": [
+            "Dear Princeton Community,The University Press Club cordially invites you to attend the Press Club’s annual Bill Rukeyser'54 lecture led by Professor Channing Joseph (she/he) on the theme \"Queer Black Histories.\" The lecture will be held on April 27th, at 7:00 pm in 100 Arthur Lewis Auditorium in Robertson Hall.Professor Channing Joseph is an award-winning journalist with two decades of experience covering race, poverty, social justice and other topics in the U.S. and abroad. She is currently a contributor to The Nation and frequently appears on the BBC, CBC and other outlets. Her work has also appeared in The New York Times, The Associated Press, and The Guardian. He will be sharing his insights on the subject of Queer Black Histories, and his talk will be followed by a short Q&A session. The Bill Rukeyser'54 lecture series is a University Press Club tradition that was established to promote scholarly discourse on a variety of subjects. This talk is an excellent opportunity to celebrate journalism and connect with professionals in the field. Whether you are curious about a career in journalism or just want to learn more about this fascinating topic, this year’s Bill Rukeyser ‘54 lecture is a great way to expand your personal and professional horizons. Please feel free to extend this invitation to anyone who might be interested in attending the lecture.Thank you for your attention, and we hope to see you on April 27th.Sincerely,The University Press Club<|endoftext|>Who are the guests of this event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Professor",
+            " Chan",
+            "ning",
+            " Joseph"
+        ],
+        "gold_output": [
+            "Professor",
+            " Chan",
+            "ning",
+            " Joseph"
+        ]
+    },
+    {
+        "input": [
+            "Dear all,Please register at the below link if you wish to attend the Progressive Law Society lecture with University President Christopher Eisgruber '83, \"Free Speech as a Progressive Ideal,\" today at 4:30pm.Location: Betts Auditorium, Architecture BuildingTime: 4:30-5:30pm, Friday, April 28thRegister here: https://forms.gle/7zJEp1sSUGWBfhMy7progressivelaw.princeton.edu<|endoftext|>Who are the guests of this event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "University",
+            " President",
+            " Christopher",
+            " E",
+            "is",
+            "gru",
+            "ber"
+        ],
+        "gold_output": [
+            "University",
+            " President",
+            " Christopher",
+            " E",
+            "is",
+            "gru",
+            "ber"
+        ]
+    },
+    {
+        "input": [
+            "Hey Princeton! The Cellists of Princeton University have been preparing all week for our Arch Play! Rain or shine, we will not be deterred from our glorious endeavor (but bring an umbrella in case we run out of room under the arch).Reminder: 5PM @ Blair Arch! See you there!P.S. We added Pirates of the Caribbean to our set list in case you needed another reason to come...<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Princ",
+            "eton",
+            " University"
+        ],
+        "gold_output": [
+            "Bl",
+            "air",
+            " Arch"
+        ]
+    },
+    {
+        "input": [
+            "Want more succulents but can never keep them alive? Love Coffee Club drinks? Come to our Campus Club location today 3-5 pm to make \"never die\" felt succulents with Keller Center Makerspace and grab a Coffee Club drink 50% off! See what it looks like below :)<|endoftext|>Who are the guests of this event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "K",
+            "eller",
+            " Center",
+            " M",
+            "akers",
+            "pace"
+        ],
+        "gold_output": [
+            "K",
+            "eller",
+            " Center",
+            " M",
+            "akers",
+            "pace"
+        ]
+    },
+    {
+        "input": [
+            "Hey Princeton!!Need a REAL break over Reading Period?Join Manna Christian Fellowship for ~ REST & REJUVENATE ~THURSDAY, MAY 4TH, 202311AM-3PM@ FRIST NORTH LAWN (OUTSIDE OF WOOLWORTH)!! RSVP HERE!!~ featuring ~AMAZING FOOD from Asian Bistro<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "FR",
+            "IST",
+            " NOR",
+            "TH",
+            " LA",
+            "WN"
+        ],
+        "gold_output": [
+            "FR",
+            "IST",
+            " NOR",
+            "TH",
+            " LA",
+            "WN"
+        ]
+    },
+    {
+        "input": [
+            "Feeling tired of being holed up studying?   Come join us for an evening of the best nature and energy themed board games to celebrate Earth Day.  Some of the many available opportunities include:  Wingspan:  a gorgeous game where you are bird enthusiasts      seeking to attract the best birds to your network of wildlife preserves.      Each bird extends a chain of powerful combinations in one of your      habitats.Power grid: A classic auction and      engine-building game where players compete to create the largest power      grid across Europe. Cascadia: This year’s Spiel des Jahres (Board      game of the year award) winner where you take turns building out your own      terrain area and populating it with the wildlife of the Pacific Northwest.Hive: A light tile-laying game where your goal is to      surround the opposing player’s queen with the strength of your hive.  \n\nIf you are looking for even more fun and games, then join our discord server here to meet more like-minded people and hear about upcoming events!   See you there, Princeton Tabletop Society<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Princ",
+            "eton",
+            " Table",
+            "top",
+            " Society"
+        ],
+        "gold_output": [
+            "Princ",
+            "eton",
+            " Table",
+            "top",
+            " Society"
+        ]
+    },
+    {
+        "input": [
+            "Howdy all,You're invited to MakeNet's final celebration and 3D showcase happening tomorrow, Wednesday, April 26th, from 4:30 - 6:30 pm. Eat food, win prizes, play VR, add to an exquisite corpse in clay, and more at the PUL Makerspace (A floor, Lewis Science Library).Prizes? Yeah! Simply show up to the event to enter a raffle for any of the prizes below. Want to increase your odds of winning a prize? Bring a 3D work of your own creation to display. Winner of best-in-show object gets a prize. We welcome works in any medium (cardboard, metal, ceramics, etc.). Winners of the raffle and the 3D contest will be announced at 5:30pm.Email questions to makenet@princeton.edu. We hope to see you tomorrow!Cheers,Princeton MakeNet<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "P",
+            "ul",
+            " M",
+            "akers",
+            "pace"
+        ],
+        "gold_output": [
+            "final",
+            " celebration",
+            " and",
+            " 3",
+            "D",
+            " showcase"
+        ]
+    },
+    {
+        "input": [
+            "Hey all!Quick change of location for the Hanami picnic: we're at Canon Green!!Date & Time: April 22nd (Sat) 2pm-5pmLocation: Canon GreenCome hang out to:- Grab some Onigiri and Japanese snacks courtesy of Maruichi- Meet new people and catch up with friends- Relax and soak up the sunshine!See you guys there!JSA<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Can",
+            "on",
+            " Green"
+        ],
+        "gold_output": [
+            "Can",
+            "on",
+            " Green"
+        ]
+    },
+    {
+        "input": [
+            "Do you like laughing? Then see 15 of Princeton's funniest ex-gifted children in the annual Triangle Spring Show! Come for the musical sketch comedy, stay for the surprisingly riveting and thought-provoking themes. There will be crystal magic, foot fetishes, sports betting, How-to-tutorials, superheroes, babies, bees?? and of course sing-songy jokes that'll knock your socks off! The show isThursday, April 27 at 8:00:00 PM\r\nFriday, April 28 at 5:00:00 PM\r\nSaturday April 29 at 4:00:00 PM\r\nand at 10:30:00 PMin the Class of 1970 Theatre, Whitman College.Tickets are: Full price: $15.00; Student price: $8.00; Faculty / Staff price: $8.00; and free with Passport to the ArtsTickets can be found at: tickets.princeton.edu<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Tri",
+            "angle",
+            " Spring",
+            " Show"
+        ],
+        "gold_output": [
+            "Class",
+            " of",
+            " 1970",
+            " Theatre",
+            ",",
+            " Whitman",
+            " College"
+        ]
+    },
+    {
+        "input": [
+            "ITS HERE! WILDCATS PB&JAM IS TOMORROW (04/27)!!! BE AT MCCOSH 50 AT 7PM TO HEAR ALL THE BEST SONGS FROM YOUR FAVORITE ACAPPELLA GROUP! GET TICKETS HERE!<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "W",
+            "IL",
+            "DC",
+            "ATS",
+            " PB",
+            "&",
+            "J",
+            "AM",
+            " IS",
+            " TOM",
+            "OR",
+            "R",
+            "OW"
+        ],
+        "gold_output": [
+            "W",
+            "IL",
+            "DC",
+            "ATS"
+        ]
+    },
+    {
+        "input": [
+            "Hey Princeton!Princeton Sketchbook and PHA are hosting the last watercolor session of the semester tonight at Frist 207 from 8-9:30pm. We would love for you to join!<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Princ",
+            "eton",
+            " Sketch",
+            "book",
+            " and",
+            " P",
+            "HA"
+        ],
+        "gold_output": [
+            "the",
+            " last",
+            " water",
+            "color",
+            " session",
+            " of",
+            " the",
+            " semester"
+        ]
+    },
+    {
+        "input": [
+            " coming-of-age; this is a collection that shows what the body is, and what the body can be; unrestricted by form, binaries, and constructs. Novella | Frances sat on the subway & seethed. by Lara Katz Freshly smarting from her ex-boyfriend’s shocking betrayal, Frances seems bound to spiral—until the morning she runs into a nameless stranger on the subway, launching a romantic day-long exploration of Manhattan. They discuss everything from their childhoods to their futures as Frances desperately attempts to decipher this fleeting entanglement and parse out her companion, whose carefree manner belies a certain sorrow. Night is soon falling, and she—more than anyone—knows that some things are just too good to be true. In this compact and witty novella, Lara Katz winds through a heady exploration of womanhood and identity through whip-smart dialogue and sobering revelations. The unknown is not a dangerous force in this story; instead, it rejuvenates, provokes, and summons necessary challenge.Short Story Collection | Two Children by Katherine Ren“As we travel from a conversation of young souls after death to questions about our own soul future after moments of crises, Katherine Ren's short stories take us on an unpredictable journey, challenging genre and tone, always reversing our expectations. Hers is a daring and unapologetic voice that demands our attention.”  —Christina Lazaridi, Academy Award-nominated screenwriter & Creative Writing professor at Princeton University A soul-collector reckons with fading friends. The creatures of a fantastical nation are abandoned and rewritten by their disillusioned Creator. A woman who considers reconciling with her estranged mother is held up in a train station by a mysterious teenager. A girl tries to stay in her out-of-time, sepia-colored town against her brother’s wishes. A letter addressed to the reader ponders what’s been left behind. And two girls engage in bitter competition over a prize.   Through each tale in this poignant short story collection, Katherine Ren unveils layers of whimsicality and surrealism to contemplate growth and the loss of innocence. She asks what is corporeal and what is not; what truly matters and not; all underpinned by a consistent backdrop of imaginative duality. Two Children is unafraid to strike out against the reader, to force us to look back, and inwards—to resolve.<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Princ",
+            "eton",
+            " University"
+        ],
+        "gold_output": [
+            "Moon",
+            " Press"
+        ]
+    },
+    {
+        "input": [
+            "Hey everyone!TLDR: The Princeton Poker Club will be holding a Texas Hold'em Tournament this Sunday 4/23 at 7:00pm Sign up here.The tourney is free to enter—with $500 total of BIG PRIZES! Location: Friend Center Room 113  Again, this tournament is FREE to enter! All you have to do is sign up here and join our GroupMe (if you haven’t already) for updates and info about future events, and show up on Sunday before 7 pm.Important Notes:If you have any questions, please email Ben Mandelbaum at bem3@princeton.edu.  Thank you, and see you on the felt! - Poker Club Officers<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "The",
+            " Princeton",
+            " Poker",
+            " Club"
+        ],
+        "gold_output": [
+            "Princ",
+            "eton",
+            " Poker",
+            " Club"
+        ]
+    },
+    {
+        "input": [
+            "Join the Princeton Psychology Society today (4/24) for a fun social event: Personality Tests with the Princeton Psychology Society - Buzzfeed Game Night! Free Boba and Tacoria Nachos will be available so come hungry for food, friends, and a fantastic night of learning about psychology. The goal of this event is to give students the opportunity to talk informally about psychology as a whole through the lens of personality tests and to think about the different ways in which psychologically related information is presented. (Myers-Briggs versus Buzzfeed quizzes are obviously quite different!) This event is open to and for EVERYONE regardless of discipline or academic interests!When: Monday, April 24th @ 7:00 - 8:30 pm Where: PNI Study lounge (ground floor of PNI)To request accommodations for this event please email jennaelliott@princeton.edu. Questions, comments, concerns? Don't hesitate to reach out as well!Princeton Psychology Society Community Committee<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "4",
+            "/",
+            "24"
+        ],
+        "gold_output": [
+            "Monday",
+            ",",
+            " April",
+            " 24",
+            "th",
+            " @",
+            " 7",
+            ":",
+            "00",
+            " -",
+            " 8",
+            ":",
+            "30",
+            " pm"
+        ]
+    },
+    {
+        "input": [
+            "Hi everyone!A reminder to RSVP to join the Princeton Association of Women in STEM (PAWS), Princeton Women in CS (PWiCS), and our graduate friends at the Women in STEM Leadership Council for an Industry Panel tomorrow, April 20th, from 6-7pm. Hear from our panelists from Meta, Amazon, and Merck about their experiences in industry, and bring your questions! We will have dinner from EFES, and there will be a raffle with prizes!!Please use the following link to RSVP for the panel: shorturl.at/kzIQYWe look forward to seeing you at the event!Kind regards,PAWS, PWiCS, and WSTEM Leadership Council<|endoftext|>Who are the guests of this event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Princ",
+            "eton",
+            " Women",
+            " in",
+            " CS"
+        ],
+        "gold_output": [
+            "panel",
+            "ists",
+            " from",
+            " Meta",
+            ",",
+            " Amazon",
+            ",",
+            " and",
+            " Mer",
+            "ck"
+        ]
+    },
+    {
+        "input": [
+            "Want more succulents but can never keep them alive? Love Coffee Club drinks? Come to our Campus Club location today 3-5 pm to make \"never die\" felt succulents with Keller Center Makerspace and grab a Coffee Club drink 50% off! See what it looks like below :)<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "K",
+            "eller",
+            " Center",
+            " M",
+            "akers",
+            "pace"
+        ],
+        "gold_output": [
+            "Camp",
+            "us",
+            " Club"
+        ]
+    },
+    {
+        "input": [
+            "Hey Princeton!The MSA is excited to announce our inaugural Eid event: Muslims Around the World! Come join us at 6 PM Saturday, April 22nd at Friend Center Convocation Room (Room 113) for an event exploring the diverse fashion, food, and culture of the many Muslim communities around the world!<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Friend",
+            " Center",
+            " Conv",
+            "ocation",
+            " Room"
+        ],
+        "gold_output": [
+            "Friend",
+            " Center",
+            " Conv",
+            "ocation",
+            " Room",
+            " (",
+            "Room",
+            " 113",
+            ")"
+        ]
+    },
+    {
+        "input": [
+            "Hey Princeton! The Cellists of Princeton University have been preparing all week for our Arch Play! Rain or shine, we will not be deterred from our glorious endeavor (but bring an umbrella in case we run out of room under the arch).Reminder: 5PM @ Blair Arch! See you there!P.S. We added Pirates of the Caribbean to our set list in case you needed another reason to come...<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Arch",
+            " Play"
+        ],
+        "gold_output": [
+            "Arch",
+            " Play"
+        ]
+    },
+    {
+        "input": [
+            "Hello Princeton!The Princeton University Orchestra is very excited to present our final concerts of the season, the Stuart B. Mindlin Memorial Concerts! Our program will feature:Mendelssohn's Hebrides Overture conducted by Yuqi Liang '23.Beethoven's Triple Concerto featuring soloists Myles McKnight '23 (violin), Robin Park '23 (cello), and Kimberly Shen '24 (piano).Strauss' Ein Heldenleben conducted by Michael Pratt.Concert times are this Saturday, April 22nd at 7:30PM and this Sunday, April 23rd at 3:00PM. Both performances will be at Richardson Auditorium and as always tickets are available at tickets.princeton.edu. Can't wait to see you there!<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Rich",
+            "ards",
+            "on",
+            " Auditor",
+            "ium"
+        ],
+        "gold_output": [
+            "Rich",
+            "ards",
+            "on",
+            " Auditor",
+            "ium"
+        ]
+    },
+    {
+        "input": [
+            "On Tuesday, April 25th at 8PM on Zoom, USG and Campus Life will be hosting a short zoom session for students interested in working as a student walker in the University's new safe walking program (name TBD!). Attending this zoom is a good first step in applying to this job for next year!Please express your interest in this employment opportunity by filling out this form. Additionally, here is the Zoom link for Tuesday's session.Please consider stopping by if you are interested in this program, since demonstrated student interest will inform our ability to move forward with this program. If you have any questions or comments, please reach out to Avi Attar at abattar@princeton.edu. Thank you so much. And for some background on the program:The USG is advocating for a walking program to support students and promote campus safety. While the details of this program are yet to be fully hashed out, this program would involve employing  teams of two student walkers. These teams would be available on-call during the night to escort students and other community members on walks around campus. This program would be modeled on successful programs at universities like Brown and UNC.<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Tuesday",
+            ",",
+            " April",
+            " 25",
+            "th"
+        ],
+        "gold_output": [
+            "Tuesday",
+            ",",
+            " April",
+            " 25",
+            "th",
+            " at",
+            " 8",
+            "PM"
+        ]
+    },
+    {
+        "input": [
+            "Please join us on Thursday, April 20 at 7:00 PM in McCosh 50 for the 2023 Anthony B. Evnin Lecture, \"Conservation Photography - Stories from the Field\". In this talk, award-winning scientists turned wildlife photographers and National Geographic Explorers Jen Guyton *18 (EEB) and Prasenjeet Yadav will share photos and stories from the savannas of Africa to the highest peaks of the Himalaya and discuss their journeys to becoming storytellers. Free raffles of prints!  This event is free and open to the public, but REGISTRATION IS REQUIRED: https://cst.princeton.edu/events/conservation-photographyQuestions? Contact PrincetonCST@princeton.edu<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Princ",
+            "eton",
+            "C",
+            "ST"
+        ],
+        "gold_output": [
+            "Princ",
+            "eton",
+            "C",
+            "ST"
+        ]
+    },
+    {
+        "input": [
+            "AERIAL ARTS CLUB PRESENTS:FAIRY TALEONE SHOW ONLYWEDNESDAY, 5/3 @ 7PMNEW SOUTH 108Get your tickets at tickets.princeton.edu and check us out on Instagram (@princetonaerialarts)!The Aerial Arts Club is Princeton's only aerial training and performance group. This is our second ever public show, and we hope to see you there! We are so excited to present this collection of pieces choreographed entirely by our incredibly talented members. Availability is limited, so get your tickets now - you don't want to miss this!<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "A",
+            "erial",
+            " Arts",
+            " Club"
+        ],
+        "gold_output": [
+            "A",
+            "ER",
+            "IAL",
+            " AR",
+            "TS",
+            " CL",
+            "UB"
+        ]
+    },
+    {
+        "input": [
+            "SUNDAES UNDER THE STARSTONIGHT AT 7:30PM for FREE ICE CREAM SUNDAES! Location: Frist South LawnRain Location: Frist Gallery, 1952 Room<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "7",
+            ":",
+            "30",
+            "PM"
+        ],
+        "gold_output": [
+            "TON",
+            "IGHT",
+            " AT",
+            " 7",
+            ":",
+            "30",
+            "PM"
+        ]
+    },
+    {
+        "input": [
+            "Some TLDR: join IFC for epic home-cooked international cuisine, warm friendships, a large, fun chalkboard wall, and a great time (; Hello!Hope you’re enjoying the spring weather! The International Food Co-op is beginning our recruitment process for next semester. Join our lottery here! (form hyperlinked)If you'd like to stop by first, either to cook or dine with us, please sign up and try us out! Location: The co-op is in 1901-Laughlin Hall, near Pyne Hall and Dillon Gym. Use Entry 4. Immediately to the left past the Printer Area. See here: https://goo.gl/maps/4ZKbbfvC9EpFnayB6The logistics:Dues: $600/semesterResponsibilities:Cook once a week~ 1 hour chore once a week24-hour kitchen and pantry access (we always have eggs, cereals, ice cream, juices, and more!)Generous discretion to order snacks, crackles, pops, etc.Dinner every night (see pics below!)Frequent socials (game nights, movies, etc.)WHY IFC?Well duh. Only because we are the BEST We showcase a truly international menu, make some stunning dinner spreads -We support you through all the breakfasts, lunches, and snacks that aren’t cook-shift-coveredMost importantly IFC is full of friends. We just know it's the fun, funky, fabulous family of your wildest fantasies!!We showcase a truly international menu and we make some stunning dinner spreads :)What are you waiting for?! Sign up to come eat (and cook) with us! 4:30pm is cookshift report time, cadets! If you sign up to try your hand in our kitchen, please be punctual.We serve dinner at 6:30 pm and are located in Laughlin Hall, Entryway 4. We're the first door on the right!Join our lottery by April 26th at midnight! (link to the form is hyperlinked)Love (and spice),IFC StewardsMore detailed instructions for the directionally challenged:Follow the whiff of delicious simmering sauce until you find yourself among us. Or check below if you get lost:<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "19",
+            "01",
+            "-",
+            "L",
+            "aughlin",
+            " Hall"
+        ],
+        "gold_output": [
+            "19",
+            "01",
+            "-",
+            "L",
+            "aughlin",
+            " Hall"
+        ]
+    },
+    {
+        "input": [
+            "What does the recent Pentagon leak reveal about U.S. involvement in Ukraine? How has Biden’s China policy differed from his predecessor(s)? What have been the successes and failures of American foreign policy under the Biden Administration overall?Join the Alexander Hamilton Society on Friday, April 21st at 5pm in Robertson 001 for an exciting discussion of The Biden Administration’s Foreign Policy with Kori Schake, Senior Fellow and Director of Defense Policy Studies at the American Enterprise Institute. There will be boba for the first 30 attendees. Please RSVP here!As always, please reach out to me at czhunt@princeton.edu with any questions or if you would like to be added to our email list!Best,Calvin HuntPresident of Princeton AHS<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Roberts",
+            "on",
+            " 00",
+            "1"
+        ],
+        "gold_output": [
+            "Roberts",
+            "on",
+            " 00",
+            "1"
+        ]
+    },
+    {
+        "input": [
+            "Hello Princeton!TL;DR: You're invited to a debate on banning TikTok TODAY at 5:30 PM in the Whig Hall Senate Chamber. Onigiri and other snacks from Mariuchi on us!------Following a wave of restrictions and outright bans on TikTok in other countries and U.S states, the Congress is now considering further restrictions, or even an outright ban, on TikTok, citing threats to national security, user privacy, censorship, and disinformation. However, opponents to the ban argue that banning TikTok would violate the First Amendment, and would fail to address larger issues surrounding how social media companies in general operate.You're invited to the Senate today at 5:30 PM in the Whig Hall Senate Chamber to listen to and speak on the arguments for and against banning TikTok in the United States! For more information on the debate, and on how Senate Debates work, check out our briefing at tinyurl.com/wctiktok. If you have any other questions, feel free to reach out to danielshaw@princeton.edu. Senate Debates are open to all members of the Princeton community, regardless of experience. We can't wait to see you there!The Whig-Clio Senate.<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Wh",
+            "ig",
+            " Hall",
+            " Senate",
+            " Chamber"
+        ],
+        "gold_output": [
+            "Wh",
+            "ig",
+            "-",
+            "Cl",
+            "io",
+            " Senate"
+        ]
+    },
+    {
+        "input": [
+            "Join the Princeton Psychology Society today (4/24) for a fun social event: Personality Tests with the Princeton Psychology Society - Buzzfeed Game Night! Free Boba and Tacoria Nachos will be available so come hungry for food, friends, and a fantastic night of learning about psychology. The goal of this event is to give students the opportunity to talk informally about psychology as a whole through the lens of personality tests and to think about the different ways in which psychologically related information is presented. (Myers-Briggs versus Buzzfeed quizzes are obviously quite different!) This event is open to and for EVERYONE regardless of discipline or academic interests!When: Monday, April 24th @ 7:00 - 8:30 pm Where: PNI Study lounge (ground floor of PNI)To request accommodations for this event please email jennaelliott@princeton.edu. Questions, comments, concerns? Don't hesitate to reach out as well!Princeton Psychology Society Community Committee<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "P",
+            "NC",
+            " Study",
+            " lounge"
+        ],
+        "gold_output": [
+            "PN",
+            "I",
+            " Study",
+            " lounge"
+        ]
+    },
+    {
+        "input": [
+            "Join the AccessAbility Center during a needed break from preparing for Dean's Date and Finals! The Fellows are hosting a series of Study Breaks throughout Reading Week!On Monday, May 1st from 2 to 4pm, come to Frist North Lawn to play and create with chalk! Draw designs or write messages for your friends.On Wednesday, May 3rd from 12:30 to 1:30pm, visit Coach - DPS's Therapy Dog - in the AccessAbility Center!On Thursday, May 4th, join the Fiber Arts Circle at the AccessAbility Center from 7:30 to 9:30pm! We will provide knitting materials, crochet materials, and beginner instruction. Learn a new skill, practice your craft, and meet some wonderful people.On Wednesday, May 10th, join the AccessAbility Center from 7:30 to 9:00pm to breath after Dean's Date and enjoy Legos and snacks!To request information or accommodations for any of these events, please email ability@princeton.edu.See you soon!The AccessAbility Center Fellows<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "May",
+            " 1",
+            "st"
+        ],
+        "gold_output": [
+            "Monday",
+            ",",
+            " May",
+            " 1",
+            "st",
+            " from",
+            " 2",
+            " to",
+            " 4",
+            "pm",
+            ",",
+            " Thursday",
+            ",",
+            " May",
+            " 4",
+            "th",
+            " from",
+            " 7",
+            ":",
+            "30",
+            " to",
+            " 9",
+            ":",
+            "30",
+            "pm",
+            ",",
+            " Wednesday",
+            ",",
+            " May",
+            " 10",
+            "th",
+            " from",
+            " 7",
+            ":",
+            "30",
+            " to",
+            " 9",
+            ":",
+            "00",
+            "pm"
+        ]
+    },
+    {
+        "input": [
+            "Hello!Are you doing some spring cleaning? Does your closet need a refresh? Are you interested in sustainable fashion? Need a quick break before reading period? If you answered yes to any of these questions, or if you just want to come to a cool event, come by the Princeton Conservation Society's sustainable clothing swap event Thursday, April 27th from 8-10 pm (TONIGHT) on Frist 1st floor! We will be at the tables in front of the pool room. There will be PCS members there, so feel free to stop by to swap clothes and learn more about fast fashion and PCS! Learn more fast fashion facts on our Instagram @princetonconservationHope to see you there!Feel free to reach out to me: mb8243@princeton.edu with any questions!<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "the",
+            " Princeton",
+            " Conservation",
+            " Society",
+            "'s",
+            " sustainable",
+            " clothing",
+            " swap",
+            " event"
+        ],
+        "gold_output": [
+            "F",
+            "rist",
+            " 1",
+            "st",
+            " floor"
+        ]
+    },
+    {
+        "input": [
+            "TL;DR Join us tonight for “Not Our Shabbat”: A Non-Zionist Alternative to Israel Shabbat, Hosted by the Alliance of Jewish Progressives. All Jewish and non-Jewish allies are welcome! Shabbat Services - 7pm / Speaking - 7:45pm / Dinner- 8pmRocky Classroom, Madison 202 (Above the Rocky common room)In response to the CJL hosting Israel shabbat tonight, we are hosting an alternative Shabbat space. All Jewish and non-Jewish allies are welcome! We are also circulating an open letter about combatting right-wing Zionism and support for Israeli apartheid on campus. For more context, see our opinion piece here. Thank you for considering signing, and please share this with supportive students, faculty, alumni, and community members in your networks. We hope to see you tonight. In solidarity, AJP *Thanks to Projects Board, ODUS, and the ORL for supporting this event.*<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "7",
+            "pm",
+            " /",
+            " Speaking",
+            " -",
+            " 7",
+            ":",
+            "45",
+            "pm",
+            " /",
+            " Dinner",
+            "-",
+            " 8",
+            "pm",
+            "Rock",
+            "y",
+            " Class",
+            "room"
+        ],
+        "gold_output": [
+            "7",
+            "pm",
+            " /",
+            " Speaking",
+            " -",
+            " 7",
+            ":",
+            "45",
+            "pm",
+            " /",
+            " Dinner",
+            "-",
+            " 8",
+            "pm"
+        ]
+    },
+    {
+        "input": [
+            "Hi Princeton! Have you heard about the Mifepristone Crisis and the battle over our reproductive rights? Come to the Abortion Access in New Jersey Talk by Roxanne Sutocky to educate yourself on the current state of abortion in the US and for free House of Cupcakes! The talk will take place at 6:30pm TODAY in Aaron Burr 219.Roxanne Sutocky is the Director of Community Engagement at The Women’s Centers, who provide compassionate abortion care and reproductive health services to women in New Jersey, Pennyslyvania, Connecticut, and Georgia. PSRJ has sent volunteers to be trained and serve as clinic escorts at the Women’s Center of Cherry Hill, and we are lucky enough to be joined by Roxanne tonight.<|endoftext|>Who are the guests of this event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "R",
+            "ox",
+            "anne",
+            " Sut",
+            "ock",
+            "y"
+        ],
+        "gold_output": [
+            "R",
+            "ox",
+            "anne",
+            " Sut",
+            "ock",
+            "y"
+        ]
+    },
+    {
+        "input": [
+            "Hello Princeton!Consider applying to be an Undergraduate U-Store Trustee. You just have to attend three meetings a year at the Nassau Street store, and it's a great opportunity to gain experience on a board and network with alumni, plus it comes with a paycheck and free dinner! I've served as a U-Store Trustee for the past year two years, and it's been a great experience. We are looking for members of the class of '25 and '26. Let me know if you have any questions.To apply, just fill out this form by using the link by May 1!Please pass this on to your friends!Sincerely,The U-Store Trustee Board<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "May",
+            " 1"
+        ],
+        "gold_output": [
+            "by",
+            " May",
+            " 1"
+        ]
+    },
+    {
+        "input": [
+            "Hey Princeton!The sun is shining, the flowers are blooming, and do you know what that means...?It's time for PSEC'S ANNUAL SPRINGFEST<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "PS",
+            "EC",
+            "'",
+            "S",
+            " ANN",
+            "UAL",
+            " SPR",
+            "ING",
+            "F",
+            "EST",
+            "EST",
+            "EST",
+            "EST",
+            "EST"
+        ],
+        "gold_output": [
+            "ANN",
+            "UAL",
+            " SPR",
+            "ING",
+            "F",
+            "EST"
+        ]
+    },
+    {
+        "input": [
+            "The Class of 2023 Last Lectures Commencement Committee presents its first event, The Myths that Built a Nation: Deconstructing what we know about America on Wednesday, April 19th at 4.30pm in Robertson 100 (Arthur Lewis Auditorium). Join us in conversation with Prof. Julian Zelizer, moderated by Prof. Deborah Amos, to investigate how the past is distorted in modern America, and the future challenges of American politics. The event will also focus on how graduating seniors can navigate an America rife with misinformation and misrepresentations of the past. Julian Zelizer is the Malcolm Stevenson Forbes, Class of 1941 Professor of History and Public Affairs at Princeton School of Public & International Affairs. Prof. Zelizer recently published an edited volume called 'Myth America: Historians Take on the Biggest Lies and Legends About Our Past' which he co-edited with Kevin Kruse.The event will be moderated by Deborah Amos, an international correspondent for the National Public Radio and a Ferris Professor of Journalism at Princeton University. The event is open to the entire Princeton community, and is not just limited to the Class of 2023. If you have any special request or require any accommodations, please contact Kanishkh Kanodia (kkanodia@princeton.edu).<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Arthur",
+            " Lewis",
+            " Auditor",
+            "ium"
+        ],
+        "gold_output": [
+            "Roberts",
+            "on",
+            " 100",
+            " (",
+            "Arthur",
+            " Lewis",
+            " Auditor",
+            "ium",
+            ")"
+        ]
+    },
+    {
+        "input": [
+            "Watch the ORIGINAL WORK by Aaron Ventresca ‘24 come to life onstage!Performances are NEXT WEEK: THURSDAY(4/27) and FRIDAY(4/28) at 8PM and SATURDAY(4/29) at 2PM in the Frist Theater. Tickets are $8 or free through Pathway to the Arts at tickets.princeton.edu!What is Laid Off About?What happens when a construction worker meets a professional ballet dancer?Bobby Tuna lives with his eccentric mother, struggling to find contracting jobs during the financial crisis of 2008. Along with his wise-cracking, hockey-loving friends, he begins working on renovations for the city’s ballet company. He unexpectedly finds himself falling for Dallas, a corps de ballet member in the company… and the girlfriend of his boss Derill Mafa. With his hilarious henchmen Morton and Goon, Derill Mafa will do whatever he can to thwart the growing relationship between Bobby and Dallas. Tightly-knit friendships, shared financial hardships, and comedic antics bring the characters to life when two vastly different worlds—building and ballet—collide.We look forward to seeing you at the shows!Princeton University PlayersWebsite: pup.princeton.edu<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "F",
+            "ris",
+            "st",
+            " Theater"
+        ],
+        "gold_output": [
+            "F",
+            "rist",
+            " Theater"
+        ]
+    },
+    {
+        "input": [
+            "Hi Tigers! Join PCFC at 6:30 pm in Robertson Hall 001 for an information session and networking event with Cornerstone Research. We have the pleasure of being joined by the following Princeton alums:Leland DomaratzkyHannah To Victoria ZhouThe event is catered by Tacoria. Hope to see you there,PCFC OfficersLearn more about Cornerstone Research below:Cornerstone 2023 One PagerCornerstone Research - The Analyst Experience - US<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Information",
+            " session",
+            " and",
+            " networking",
+            " event"
+        ],
+        "gold_output": [
+            "information",
+            " session",
+            " and",
+            " networking",
+            " event",
+            " with",
+            " Corner",
+            "stone",
+            " Research"
+        ]
+    },
+    {
+        "input": [
+            "tl;dr: PRE-REGISTER for the Night Market at MyPrincetonU HERE!TODAY'S THE DAY!The Taiwanese American Student Association will be hosting our annual TASA Night Market TODAY from 8:00-11:00 PM at East Pyne BASEMENT!The TASA Night Market is a historic Princeton event to celebrate the APIDA community in a night of music, performances, and good food.This year, we’re bringing back the event with MORE food from various Asian restaurants and a hit set of performances from:VToneSympohTriple 8HUA Chinese DanceNaachoKoKo PopsJuggling ClubSound like the best night of your life?SEE YOU THERE!<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "East",
+            " Py",
+            "ne",
+            " BAS",
+            "EMENT"
+        ],
+        "gold_output": [
+            "East",
+            " Py",
+            "ne",
+            " BAS",
+            "EMENT"
+        ]
+    },
+    {
+        "input": [
+            "Dear Princeton Community,The University Press Club cordially invites you to attend the Press Club’s annual Bill Rukeyser'54 lecture led by Professor Channing Joseph (she/he) on the theme \"Queer Black Histories.\" The lecture will be held on April 27th, at 7:00 pm in 100 Arthur Lewis Auditorium in Robertson Hall.Professor Channing Joseph is an award-winning journalist with two decades of experience covering race, poverty, social justice and other topics in the U.S. and abroad. She is currently a contributor to The Nation and frequently appears on the BBC, CBC and other outlets. Her work has also appeared in The New York Times, The Associated Press, and The Guardian. He will be sharing his insights on the subject of Queer Black Histories, and his talk will be followed by a short Q&A session. The Bill Rukeyser'54 lecture series is a University Press Club tradition that was established to promote scholarly discourse on a variety of subjects. This talk is an excellent opportunity to celebrate journalism and connect with professionals in the field. Whether you are curious about a career in journalism or just want to learn more about this fascinating topic, this year’s Bill Rukeyser ‘54 lecture is a great way to expand your personal and professional horizons. Please feel free to extend this invitation to anyone who might be interested in attending the lecture.Thank you for your attention, and we hope to see you on April 27th.Sincerely,The University Press Club<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Princ",
+            "eton",
+            " Community"
+        ],
+        "gold_output": [
+            "University",
+            " Press",
+            " Club"
+        ]
+    },
+    {
+        "input": [
+            "Come check out Coffee Club at the Farmer's Market today in Firestone Plaza until 3 pm and try our specialty cold brew, iced tea, batch brew and pastries! First 150 sophomores get a $5 coupon from USG! Don't forget cash!! See y'all soon <3 <|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "F",
+            "arm",
+            "ers",
+            " Market"
+        ],
+        "gold_output": [
+            "Fire",
+            "stone",
+            " Plaza"
+        ]
+    },
+    {
+        "input": [
+            "TL;DR Join us tonight for “Not Our Shabbat”: A Non-Zionist Alternative to Israel Shabbat, Hosted by the Alliance of Jewish Progressives. All Jewish and non-Jewish allies are welcome! Shabbat Services - 7pm / Speaking - 7:45pm / Dinner- 8pmRocky Classroom, Madison 202 (Above the Rocky common room)In response to the CJL hosting Israel shabbat tonight, we are hosting an alternative Shabbat space. All Jewish and non-Jewish allies are welcome! We are also circulating an open letter about combatting right-wing Zionism and support for Israeli apartheid on campus. For more context, see our opinion piece here. Thank you for considering signing, and please share this with supportive students, faculty, alumni, and community members in your networks. We hope to see you tonight. In solidarity, AJP *Thanks to Projects Board, ODUS, and the ORL for supporting this event.*<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Madison",
+            " 202"
+        ],
+        "gold_output": [
+            "Rock",
+            "y",
+            " Class",
+            "room",
+            ",",
+            " Madison",
+            " 202"
+        ]
+    },
+    {
+        "input": [
+            "Happy second-to-last day of classes!!Just a reminder to stop by Coffee Club on Prospect Avenue between 12:30 and 4pm tomorrow afternoon for a chance to chat with Women in Medicine club members over a free drink!<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "C",
+            "off",
+            "ee",
+            " Club"
+        ],
+        "gold_output": [
+            "C",
+            "off",
+            "ee",
+            " Club",
+            " on",
+            " Prospect",
+            " Avenue"
+        ]
+    },
+    {
+        "input": [
+            "Hello all,The Federalist Society will be hosting its fourth event of the semester next Monday, April 17th at 6 pm in Robertson 002. The event will be a conversation between J. Joel Alicea and R.J. Snell over the moral authority of original meaning in constitutional interpretation. Professor Joel Alicea is Assistant Professor of Law and Co-Director of the Project on Constitutional Originalism and the Catholic Intellectual Tradition at the Columbus School of Law at the Catholic University of America. He graduated summa cum laude from Princeton University in 2010 and cum laude from Harvard Law School in 2013. He has previously clerked for Judge O'Scannlain on the U.S. Court of Appeals for the 9th Circuit and Justice Alito on the Supreme Court. He is an expert on issues of constitutional law and civil litigation, and he will defend originalism from a natural law perspective. R.J. Snell is a Visiting Lecturer at Princeton University, Editor-in-Chief of Public Discourse (the journal of the Witherspoon Institute), and Director of Academic Programs at the Witherspoon Institute. He earned his M.A. in philosophy from Boston College and his Ph.D. in philosophy from Marquette University. His intellectual interests include ethics, natural law, and the Catholic intellectual tradition. He will providing commentary after Professor Alicea delivers his remarks.As always, there will be free snacks, and you are encouraged to bring your friends and best questions!Best regards,Zach Gardner<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "The",
+            " Federal",
+            "ist",
+            " Society"
+        ],
+        "gold_output": [
+            "a",
+            " conversation",
+            " over",
+            " the",
+            " moral",
+            " authority",
+            " of",
+            " original",
+            " meaning",
+            " in",
+            " constitutional",
+            " interpretation"
+        ]
+    },
+    {
+        "input": [
+            "Hi everyone,The 'Prince' gear store is now open to all Princeton students! Support your student newspaper and order your gear by April 30th (and pick up by May 9th). Make sure to choose the \"student\" pricing: https://order.dailyprincetonian.com/#/You can order a S, M, L, XL Vol. 1 No. 4 Long-Sleeve or a Vol. 1 No. 4 tote bag. There is a limited amount of gear that is available on a first come first serve basis. Please note that we are NOT doing shipping and you must pick up your gear before you leave campus. Thanks and have a great last week of classes,The Daily Princetonian Business Team<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "The",
+            " Daily",
+            " Princeton",
+            "ian",
+            " Business",
+            " Team"
+        ],
+        "gold_output": [
+            "The",
+            " Daily",
+            " Princeton",
+            "ian"
+        ]
+    },
+    {
+        "input": [
+            "Happening today! Hope to see you there.The American Whig-Cliosophic Society is pleased to announce our next speaker event of the term, hosted in conjunction with Princeton Politics and SPIA - join us on Tuesday, April 18 at 5:00 PM for a speaker event with Gabriel Debenedetti, NATIONAL CORRESPONDENT for NEW YORK MAGAZINE, as he speaks in conversation with Professor Paul Starr of the Sociology and Public Affairs Department on the state of Joe Biden and the media today. Mr. Debenedetti joined New York in 2018, and previously covered politics for both Politico and Reuters. He served as the author of The Long Alliance, a work detailing the complicated relationship between Joe Biden and Barack Obama over the course of their professional careers.The event will be held in Whig Hall, Senate Chamber, and will feature free Jammin' Crepes. If you're into journalism or politics, this one is definitely for you.--------------------------------------------------------------The Speakers' Council will like to know your ideas on our events, and what we can do for the future! Check out our forms below.Let us know how our events are going here.Got speakers to propose? Let us know here.<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "The",
+            " American",
+            " Wh",
+            "ig",
+            "-",
+            "Cl",
+            "ios",
+            "oph",
+            "ic",
+            " Society"
+        ],
+        "gold_output": [
+            "spe",
+            "aker",
+            " event"
+        ]
+    },
+    {
+        "input": [
+            "Hello Princeton!TL;DR: You're invited to a debate on banning TikTok TODAY at 5:30 PM in the Whig Hall Senate Chamber. Onigiri and other snacks from Mariuchi on us!------Following a wave of restrictions and outright bans on TikTok in other countries and U.S states, the Congress is now considering further restrictions, or even an outright ban, on TikTok, citing threats to national security, user privacy, censorship, and disinformation. However, opponents to the ban argue that banning TikTok would violate the First Amendment, and would fail to address larger issues surrounding how social media companies in general operate.You're invited to the Senate today at 5:30 PM in the Whig Hall Senate Chamber to listen to and speak on the arguments for and against banning TikTok in the United States! For more information on the debate, and on how Senate Debates work, check out our briefing at tinyurl.com/wctiktok. If you have any other questions, feel free to reach out to danielshaw@princeton.edu. Senate Debates are open to all members of the Princeton community, regardless of experience. We can't wait to see you there!The Whig-Clio Senate.<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Wh",
+            "ig",
+            " Hall",
+            " Senate",
+            " Chamber"
+        ],
+        "gold_output": [
+            "Wh",
+            "ig",
+            " Hall",
+            " Senate",
+            " Chamber"
+        ]
+    },
+    {
+        "input": [
+            "Watch the ORIGINAL WORK by Aaron Ventresca ‘24 come to life onstage!Performances are NEXT WEEK: THURSDAY(4/27) and FRIDAY(4/28) at 8PM and SATURDAY(4/29) at 2PM in the Frist Theater. Tickets are $8 or free through Pathway to the Arts at tickets.princeton.edu!What is Laid Off About?What happens when a construction worker meets a professional ballet dancer?Bobby Tuna lives with his eccentric mother, struggling to find contracting jobs during the financial crisis of 2008. Along with his wise-cracking, hockey-loving friends, he begins working on renovations for the city’s ballet company. He unexpectedly finds himself falling for Dallas, a corps de ballet member in the company… and the girlfriend of his boss Derill Mafa. With his hilarious henchmen Morton and Goon, Derill Mafa will do whatever he can to thwart the growing relationship between Bobby and Dallas. Tightly-knit friendships, shared financial hardships, and comedic antics bring the characters to life when two vastly different worlds—building and ballet—collide.We look forward to seeing you at the shows!Princeton University PlayersWebsite: pup.princeton.edu<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Friday",
+            "(",
+            "4",
+            "/",
+            "27",
+            ")",
+            " and",
+            " FR",
+            "ID",
+            "AY",
+            "(",
+            "4",
+            "/",
+            "28",
+            ")"
+        ],
+        "gold_output": [
+            "TH",
+            "UR",
+            "SD",
+            "AY",
+            "(",
+            "4",
+            "/",
+            "27",
+            ")",
+            " and",
+            " FR",
+            "ID",
+            "AY",
+            "(",
+            "4",
+            "/",
+            "28",
+            ")",
+            " at",
+            " 8",
+            "PM",
+            " and",
+            " SAT",
+            "UR",
+            "DAY",
+            "(",
+            "4",
+            "/",
+            "29",
+            ")",
+            " at",
+            " 2",
+            "PM"
+        ]
+    },
+    {
+        "input": [
+            "RUTHLESS GANG POLITICS. JAW-DROPPING CHOREOGRAPHED FIGHTS. LIVE, THUNDEROUS DRUMS. Love theater? Love Chinese culture? Want to hear a play in English with parts in Mandarin? What are you waiting for?Tickets are now available for Princeton Chinese Theatre’s spring semester original show Dragons in DespairOur first-ever show in ENGLISH with selected Chinese! About the play: It’s 1910s Shanghai. The glamorous, busy city is filled with all walks of life, but even mice must pay respect to the Axe Gang. Only four kung fu masters dare take on the gang, putting their lives on the line. But the gang is not a united front. The Four Heads of the Axe Gang each have their own motives, especially a scheming Brother Three. They engage in a battle royale of both fists and wits. Who will have the last laugh?https://tickets.princeton.edu/May 5 at 8 p.m.May 6 at 1:30 pm. and 8 p.m. May 7 at 1:30 p.m. Location: Whitman TheatreDirected by Philip Wang and co-directed by Elliot Lee and Angela TanPCT is also accepting play proposals for fall 2023: Are you a writer, director, and lover of Chinese-American references? You can pitch as the DIRECTOR and/or the WRITER for an existing play, an adaptation, or an original show (musical is welcome too) in CHINESE, BILINGUAL, or even ENGLISH as long as the show has a Chinese cultural context. Or, if you're simply excited to see PCT make a show you like into a production, let us know as well! No commitment required! Most of our past directors, writers, crew, and cast didn’t have experience before joining PCT. We will also help you along the way if you need co-directors/writers and other types of support.Fill out this GOOGLE FORM. Email Briony Zhao at dingruz@princeton.edu for questions.<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Princ",
+            "eton",
+            " Chinese",
+            " Theatre"
+        ],
+        "gold_output": [
+            "Princ",
+            "eton",
+            " Chinese",
+            " Theatre"
+        ]
+    },
+    {
+        "input": [
+            "Hey Princeton!The MSA is excited to announce our inaugural Eid event: Muslims Around the World! Come join us at 6 PM Saturday, April 22nd at Friend Center Convocation Room (Room 113) for an event exploring the diverse fashion, food, and culture of the many Muslim communities around the world!<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Muslims",
+            " Around",
+            " the",
+            " World",
+            "!"
+        ],
+        "gold_output": [
+            "in",
+            "aug",
+            "ural",
+            " Eid",
+            " event",
+            ":",
+            " Muslims",
+            " Around",
+            " the",
+            " World"
+        ]
+    },
+    {
+        "input": [
+            "Hi Princeton!The South Asian Student Association (SASA) is hosting an alumni event TONIGHT at 6:00pm in NCW. Come sit down with us and chat with incredible alumni! Here are the alumni attending: Abhiram Karuppur '19: Private Equity Associate at Ara PartnersArka Mukherjee '94: CEO at Global IDs Inc. Urvashi Divya Uberoy '20: Newsroom Engineer at The New York TimesAnu Vedantham '94: Higher education librarian Thayer Patterson: Research Community Coordinator, Princeton Institute for International and Regional StudiesHope to see you all there!Lots of Love, The SASA Board<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "6",
+            ":",
+            "00",
+            "pm"
+        ],
+        "gold_output": [
+            "TON",
+            "IGHT",
+            " at",
+            " 6",
+            ":",
+            "00",
+            "pm"
+        ]
+    },
+    {
+        "input": [
+            "Hello everyone! TigerTables (E-Club) will be hosting an in-person speaker event with Martin Rowinski, CEO of Boardsi, this upcoming Thursday (4/27) at 5PM. Details below! Join us!Mr. Rowinski is a global technology pioneer, executive recruitment expert, and international speaker with 25 years of experience. Boardsi is a modern recruiting company providing executives with advisory positions and companies with top talent. Through their advanced technology, human connection, and private network, Boardsi helps revolutionize businesses and grow careers. Learn more at: https://boardsi.com/about-us/If you have any questions, feel free to reach out to sd19@princeton.edu or pa1869@princeton.edu.<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Thursday"
+        ],
+        "gold_output": [
+            "Thursday",
+            " (",
+            "4",
+            "/",
+            "27",
+            ")",
+            " at",
+            " 5",
+            "PM"
+        ]
+    },
+    {
+        "input": [
+            "Happening NOW in Frist MPR A (Basement level of Frist - below Late Meal floor). Come for free Mochinut donuts and help assemble menstrual product kits for local nonprofits :)<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "H",
+            "app",
+            "ening",
+            " NOW",
+            " in",
+            " Fr",
+            "ist",
+            " M",
+            "PR",
+            " A"
+        ],
+        "gold_output": [
+            "as",
+            "semble",
+            " menstrual",
+            " product",
+            " kits",
+            " for",
+            " local",
+            " nonprofits"
+        ]
+    },
+    {
+        "input": [
+            "How have U.S.-China relations changed under the Biden Administration? How will China's recent military tests impact the U.S.-China relationship?Join the Alexander Hamilton Society on Friday, April 21st at 5pm for a discussion on the Biden Administration's China Policy with Kori Schake, Senior Fellow and Director of Defense Policy Studies at the American Enterprise Institute. There will be pizza and refreshments provided!Please RSVP here!<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Alexander",
+            " Hamilton",
+            " Society"
+        ],
+        "gold_output": [
+            "disc",
+            "ussion",
+            " on",
+            " the",
+            " Biden",
+            " Administration",
+            "'s",
+            " China",
+            " Policy"
+        ]
+    },
+    {
+        "input": [
+            "Hey Princeton!!Need a REAL break over Reading Period?Join Manna Christian Fellowship for ~ REST & REJUVENATE ~THURSDAY, MAY 4TH, 202311AM-3PM@ FRIST NORTH LAWN (OUTSIDE OF WOOLWORTH)!! RSVP HERE!!~ featuring ~AMAZING FOOD from Asian Bistro<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "May",
+            " 4",
+            "th"
+        ],
+        "gold_output": [
+            "TH",
+            "UR",
+            "SD",
+            "AY",
+            ",",
+            " MAY",
+            " 4",
+            "TH",
+            ",",
+            " 20",
+            "23",
+            "11",
+            "AM",
+            "-",
+            "3",
+            "PM"
+        ]
+    },
+    {
+        "input": [
+            "Come join Princeton Ballroom Dance Clubfor our end-of-year showcase!!!Thursday & Friday 7:30pmDillon GFRhttps://tickets.princeton.edu/Online/default.asp<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "End",
+            "-",
+            "of",
+            "-",
+            "year",
+            " showcase"
+        ],
+        "gold_output": [
+            "end",
+            "-",
+            "of",
+            "-",
+            "year",
+            " showcase"
+        ]
+    },
+    {
+        "input": [
+            "tl;dr The Mandalorian S3 FINALE Saturday @ 10 pm in Robertson 100! Pizza and snacks provided. Hello there!Princeton Star Wars Club is hosting a watch party for the FINALE of the third season of the hit streaming series \"The Mandalorian\" Saturday 4/22, at 10 pm in Robertson 100! Everyone is welcome, even those who have not seen the previous episodes. As usual, pizza and snacks will be provided thanks to the support of the Alcohol Initiative. Princeton Star Wars Club seeks to create an inclusive and friendly community for the enjoyment of all things Star Wars. We host film and TV watch parties, book clubs, and more! To stay up to date with the club, join our mailing list and Discord server.  - Princeton Star Wars Club<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Roberts",
+            "on",
+            " 100"
+        ],
+        "gold_output": [
+            "Roberts",
+            "on",
+            " 100"
+        ]
+    },
+    {
+        "input": [
+            "Some TLDR: join IFC for epic home-cooked international cuisine, warm friendships, a large, fun chalkboard wall, and a great time (; Hello!Hope you’re enjoying the spring weather! The International Food Co-op is beginning our recruitment process for next semester. Join our lottery here! (form hyperlinked)If you'd like to stop by first, either to cook or dine with us, please sign up and try us out! Location: The co-op is in 1901-Laughlin Hall, near Pyne Hall and Dillon Gym. Use Entry 4. Immediately to the left past the Printer Area. See here: https://goo.gl/maps/4ZKbbfvC9EpFnayB6The logistics:Dues: $600/semesterResponsibilities:Cook once a week~ 1 hour chore once a week24-hour kitchen and pantry access (we always have eggs, cereals, ice cream, juices, and more!)Generous discretion to order snacks, crackles, pops, etc.Dinner every night (see pics below!)Frequent socials (game nights, movies, etc.)WHY IFC?Well duh. Only because we are the BEST We showcase a truly international menu, make some stunning dinner spreads -We support you through all the breakfasts, lunches, and snacks that aren’t cook-shift-coveredMost importantly IFC is full of friends. We just know it's the fun, funky, fabulous family of your wildest fantasies!!We showcase a truly international menu and we make some stunning dinner spreads :)What are you waiting for?! Sign up to come eat (and cook) with us! 4:30pm is cookshift report time, cadets! If you sign up to try your hand in our kitchen, please be punctual.We serve dinner at 6:30 pm and are located in Laughlin Hall, Entryway 4. We're the first door on the right!Join our lottery by April 26th at midnight! (link to the form is hyperlinked)Love (and spice),IFC StewardsMore detailed instructions for the directionally challenged:Follow the whiff of delicious simmering sauce until you find yourself among us. Or check below if you get lost:<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "International",
+            " Food",
+            " Co",
+            "-",
+            "op"
+        ],
+        "gold_output": [
+            "rec",
+            "ruit",
+            "ment",
+            " process",
+            " for",
+            " next",
+            " semester"
+        ]
+    },
+    {
+        "input": [
+            "Come down to the Keller Center makerspace in the H-wing of the E-Quad today at 1 pm and make your own customizable laser-cut tea light box.You'll learn the basics of laser-cutting, tour our awesome makerspace, and meet some incredible makers!See you there!<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "1",
+            " pm"
+        ],
+        "gold_output": [
+            "today",
+            " at",
+            " 1",
+            " pm"
+        ]
+    },
+    {
+        "input": [
+            "Meet alumni medical students today in Frist 114 with the Black Premedical Society! Three medical school students will be joining us in person or by Zoom. Come for some Playa Bowls and to have your questions answered! If you cannot attend in person, feel free to join via Zoom and submit any questions (RSVP link below). We hope to see you there!https://forms.gle/SbDxzLb4u6ZR99vb7<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Black",
+            " Pre",
+            "medical",
+            " Society"
+        ],
+        "gold_output": [
+            "Black",
+            " Pre",
+            "medical",
+            " Society"
+        ]
+    },
+    {
+        "input": [
+            "Dear Princeton Community,The University Press Club cordially invites you to attend the Press Club’s annual Bill Rukeyser'54 lecture led by Professor Channing Joseph (she/he) on the theme \"Queer Black Histories.\" The lecture will be held on April 27th, at 7:00 pm in 100 Arthur Lewis Auditorium in Robertson Hall.Professor Channing Joseph is an award-winning journalist with two decades of experience covering race, poverty, social justice and other topics in the U.S. and abroad. She is currently a contributor to The Nation and frequently appears on the BBC, CBC and other outlets. Her work has also appeared in The New York Times, The Associated Press, and The Guardian. He will be sharing his insights on the subject of Queer Black Histories, and his talk will be followed by a short Q&A session. The Bill Rukeyser'54 lecture series is a University Press Club tradition that was established to promote scholarly discourse on a variety of subjects. This talk is an excellent opportunity to celebrate journalism and connect with professionals in the field. Whether you are curious about a career in journalism or just want to learn more about this fascinating topic, this year’s Bill Rukeyser ‘54 lecture is a great way to expand your personal and professional horizons. Please feel free to extend this invitation to anyone who might be interested in attending the lecture.Thank you for your attention, and we hope to see you on April 27th.Sincerely,The University Press Club<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Roberts",
+            "on",
+            " Hall"
+        ],
+        "gold_output": [
+            "100",
+            " Arthur",
+            " Lewis",
+            " Auditor",
+            "ium",
+            " in",
+            " Robertson",
+            " Hall"
+        ]
+    },
+    {
+        "input": [
+            "Hi everyone!MASA is excited to host a Hari Raya dinner event on Sunday, April 23 7.30 - 8.30pm. Venue will be at Louis A Simpson B60. As usual there will be lots of delicious local food!Please RSVP here ASAP if you can make it. Guests are welcome. Hope to see you there!Best,Justin Ong<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Har",
+            "i",
+            " Ray",
+            "a",
+            " dinner",
+            " event"
+        ],
+        "gold_output": [
+            "H",
+            "ari",
+            " Ray",
+            "a",
+            " dinner",
+            " event"
+        ]
+    },
+    {
+        "input": [
+            "Dear all,Please join the Princeton Progressive Law Society for today's lecture at 5:00pm –Professor Olatunde Johnson, Ruth Bader Ginsburg '59 Professor of Law at Columbia Law SchoolTitle: Is the Supreme Court Democratically Legitimate?Time & Place: 5:00-6:00pm TODAY in Louis A. Simpson 271Olatunde Johnson is the Ruth Bader Ginsburg ’59 Professor of Law at Columbia Law School, where she is distinguished for her scholarship on antidiscrimination law and civil procedure. She is an elected member of the American Law Institute. In addition, Professor Johnson served on President Biden’s Commission on the Supreme Court to produce concrete recommendations to reform the nation’s highest court to the White House. Professor Johnson will be discussing the legitimacy of the Supreme Court as a democratic institution – not only in its formation and appointment process, but addressing broader questions of the breadth and penetration of the Court’s political power.progressivelaw.princeton.edu<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Princ",
+            "eton",
+            " Progressive",
+            " Law",
+            " Society"
+        ],
+        "gold_output": [
+            "Is",
+            " the",
+            " Supreme",
+            " Court",
+            " Democr",
+            "atically",
+            " Leg",
+            "itimate",
+            "?"
+        ]
+    },
+    {
+        "input": [
+            "get ready to headbang with us at terrace tonight with an amazing prog rock double header, featuring STRAWBERRY MILK and BARQUE!!!where? terracewhen? 11pm-latewhat? live musicwho? Strawberry Milk and Barquewhy? vibes!!!see u tonight <3music = love<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "ter",
+            "r",
+            "ace"
+        ],
+        "gold_output": [
+            "live",
+            " music"
+        ]
+    },
+    {
+        "input": [
+            "Always snapping pics of your Coffee Club drinks because theyâ€™re so pretty? Wanna know the secret to latte art? Wonder no more! Sign up here for a 30 minute session at our Latte Art Workshop this Saturday night to learn how to make latte art from our experienced baristas! Spots are limited, so sign up soon!<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Saturday",
+            " night"
+        ],
+        "gold_output": [
+            "this",
+            " Saturday",
+            " night"
+        ]
+    },
+    {
+        "input": [
+            "Meet alumni medical students this Sunday in Frist 114 with the Black Premedical Society! Three medical school students will be joining us in person or by Zoom. Come for some Playa Bowls and to have your questions answered! If you cannot attend in person, feel free to join via Zoom (RSVP link below). We hope to see you there!https://forms.gle/SbDxzLb4u6ZR99vb7<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Black",
+            " Pre",
+            "medical",
+            " Society"
+        ],
+        "gold_output": [
+            "Meet",
+            " alumni",
+            " medical",
+            " students"
+        ]
+    },
+    {
+        "input": [
+            "HEY PRINCETON!Looking for a study break? Wanna relax to some classical music? Opus is performing the Mendelssohn String Quartet no. 2 and Tchaikovsky Piano Concerto with world-class pianist Per Tengstrand TODAY in Forbes lounge at 6pm!<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "6",
+            "pm"
+        ],
+        "gold_output": [
+            "T",
+            "OD",
+            "AY",
+            " at",
+            " 6",
+            "pm"
+        ]
+    },
+    {
+        "input": [
+            "TLDR: The Output x Business Today NYC Impact Investing day trip will be taking place on Monday, May 1st during reading period, and will be a great opportunity to learn about the social impact VC space! Please FILL OUT THIS FORM if you would like to reserve your spot for the trip and will be able to join on Monday, May 1st.We will be attending a speaking and Q&A session with Sarah Cone, the founder and managing partner of Social Impact Capital. Then we will be participating in an office walk-through and speaking session with SOSV IndieBio (a biotech and impact driven VC firm.) This event will occur on Monday, May 1st from 1:00PM to 4:00PM, excluding lunch and transportation time. We will be leaving campus at 10:00AM and return to campus by 5:30PM. Lunch and transportation via NJ Transit will be provided. It will be a very exciting day and an amazing opportunity to learn about impact investing and venture capital from the leaders of two different firms. Once you fill out this form, you will be notified by Friday, April 28th whether you were one of the first 15 people to sign up for the trip and will receive further details. Please reach out to Julianna Martin at <jm8703@princeton.edu> if you have any questions!<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Monday",
+            ",",
+            " May",
+            " 1",
+            "st"
+        ],
+        "gold_output": [
+            "Monday",
+            ",",
+            " May",
+            " 1",
+            "st",
+            " from",
+            " 1",
+            ":",
+            "00",
+            "PM",
+            " to",
+            " 4",
+            ":",
+            "00",
+            "PM"
+        ]
+    },
+    {
+        "input": [
+            "PEESA is excited to announce its biggest event of the semester!! On April 28th, we will be hosting Lihem Russom and City James at Driven By Art: A Conversation on Navigating the Industry. Lihem is an Eritrean runway model and City is a director who has directed music videos for big names like Future & Lil Baby! Join us for a conversation on being Black in the industry and then an opportunity to do a photoshoot or star in a video with Lihem & City! Plenty of food catered! RSVP below, spots are limited!https://tinyurl.com/DBAPEESA<|endoftext|>Who are the guests of this event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Li",
+            "hem",
+            " Russ",
+            "om",
+            " and",
+            " City",
+            " James"
+        ],
+        "gold_output": [
+            "Li",
+            "hem",
+            " Russ",
+            "om",
+            " and",
+            " City",
+            " James"
+        ]
+    },
+    {
+        "input": [
+            "Tech Entrepreneurship in the Fall of 2023 with Professor Chris Kuenne, founder of Rosetta and current managing partner at Rosemark Capital.Through Harvard Business School case studies, visits from entrepreneurs, and your own field assignments, you will learn the analysis and actions required to launch and commercialize a technology company. You will learn how successful entrepreneurs leverage their personal strengths and those of their team members to craft solutions, understand customer needs, build teams, enlist the support of sponsors, and scale their businesses. See what past students have said about EGR491: “This class is transformative. Whether you are a seasoned entrepreneur or a student new to business/tech, EGR491 will change you.”\"Absolutely take this class. It will challenge you and you will be so glad you did.\"“Incredible course. Professor Kuenne is an experienced entrepreneur and investor and he invites the coolest people to come speak to the class. The lectures are class discussions led by the students and gives you an opportunity to form an opinion and debate. If you want to do well in the class you have to speak your mind and participate actively.”“This class is incredible and life-changing: TAKE IT, no matter what your major or background is. It's fun and rewarding, and you learn a lot that will be applicable to your life after Princeton; Professor Kuenne is also amazing and is hands-down the best professor that I've ever had at this University.”“Debating case studies with some of the best students at Princeton is a really fantastic opportunity. It also helps to hear other perspectives than your own, since these are the kinds of people that you will be working with someday if you are serious about going into business yourself.”\"Professor Kuenne CARES tremendously about his students + their growth throughout the course! Highly recommend for students interested in learning more about entrepreneurship + how to build/grow a company.\"It has been one of my favorite and most engaging courses at Princeton so far and I encourage anyone who's interested to apply!  For more information, watch this brief video by Professor Kuenne, and if you are interested please apply for the course at this link. The application is due Thursday, April 13th at 11:59PM. Decisions on applications will be given back before course selection begins! If you have any more questions please reach out to the TA at shlok@princeton.edu Thanks,sdp<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Ros",
+            "etta",
+            " and",
+            " current",
+            " managing",
+            " partner",
+            " at",
+            " Rose",
+            "mark",
+            " Capital"
+        ],
+        "gold_output": [
+            "Applications",
+            " for",
+            " E",
+            "GR",
+            "491",
+            ":",
+            " High",
+            "-",
+            "Tech",
+            " Entreprene",
+            "urs",
+            "hip"
+        ]
+    },
+    {
+        "input": [
+            "Hi everyone!A reminder to RSVP to join the Princeton Association of Women in STEM (PAWS), Princeton Women in CS (PWiCS), and our graduate friends at the Women in STEM Leadership Council for an Industry Panel tomorrow, April 20th, from 6-7pm. Hear from our panelists from Meta, Amazon, and Merck about their experiences in industry, and bring your questions! We will have dinner from EFES, and there will be a raffle with prizes!!Please use the following link to RSVP for the panel: shorturl.at/kzIQYWe look forward to seeing you at the event!Kind regards,PAWS, PWiCS, and WSTEM Leadership Council<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "April",
+            " 20",
+            "th"
+        ],
+        "gold_output": [
+            "tom",
+            "orrow",
+            ",",
+            " April",
+            " 20",
+            "th",
+            ",",
+            " from",
+            " 6",
+            "-",
+            "7",
+            "pm"
+        ]
+    },
+    {
+        "input": [
+            "Hi everyone,Everyone is invited to attend the CJL's film screening of How Saba Kept Singing and concert tomorrow, April 20th at 6:30pm in honor of Yom HaShoah, Holocaust Remembrance Day.<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "C",
+            "J",
+            "L",
+            "'s",
+            " film",
+            " screening"
+        ],
+        "gold_output": [
+            "C",
+            "J",
+            "L"
+        ]
+    },
+    {
+        "input": [
+            "Happening today! Hope to see you there.The American Whig-Cliosophic Society is pleased to announce our next speaker event of the term, hosted in conjunction with Princeton Politics and SPIA - join us on Tuesday, April 18 at 5:00 PM for a speaker event with Gabriel Debenedetti, NATIONAL CORRESPONDENT for NEW YORK MAGAZINE, as he speaks in conversation with Professor Paul Starr of the Sociology and Public Affairs Department on the state of Joe Biden and the media today. Mr. Debenedetti joined New York in 2018, and previously covered politics for both Politico and Reuters. He served as the author of The Long Alliance, a work detailing the complicated relationship between Joe Biden and Barack Obama over the course of their professional careers.The event will be held in Whig Hall, Senate Chamber, and will feature free Jammin' Crepes. If you're into journalism or politics, this one is definitely for you.--------------------------------------------------------------The Speakers' Council will like to know your ideas on our events, and what we can do for the future! Check out our forms below.Let us know how our events are going here.Got speakers to propose? Let us know here.<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "American",
+            " Wh",
+            "ig",
+            "-",
+            "Cl",
+            "ios",
+            "oph",
+            "ic",
+            " Society"
+        ],
+        "gold_output": [
+            "American",
+            " Wh",
+            "ig",
+            "-",
+            "Cl",
+            "ios",
+            "oph",
+            "ic",
+            " Society"
+        ]
+    },
+    {
+        "input": [
+            "Hey Princeton!Are you interested in classical Indian dance but never got a chance to pick it up? Or are you an experienced Bharatanatyam dancer who wants to get back to basics?Then come to Kalaa's intro Bharatanatyam workshop THIS SATURDAY (4/15) from 4-5 PM at New South Warm-Up (Room 103). We'll be teaching basic Bharatanatyam steps along with a short choreography.No previous experience required!!!Please RSVP here.If you have any questions, feel free to contact Srija Patcha (spatcha@princeton.edu), Samyukta Neeraj (sn2979@princeton.edu), and/or Vibha Srinivasan (vs5533@princeton.edu).Thanks so much,Kalaa BoardP.S. If you're interested in learning what Bharatanatyam looks like, feel free to check out the links below!https://www.youtube.com/watch?v=zZZRAmH7Z4w&ab_channel=ChitravinaNRavikiranCreations%26Collaborationshttps://www.youtube.com/watch?v=-54Wp0ZoALM&ab_channel=SrideviNrithyalayahttps://www.youtube.com/watch?v=_wWjS6peLfk&ab_channel=TEDxAIIMSPatna<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "4",
+            "/",
+            "15"
+        ],
+        "gold_output": [
+            "THIS",
+            " SAT",
+            "UR",
+            "DAY",
+            " (",
+            "4",
+            "/",
+            "15",
+            ")",
+            " from",
+            " 4",
+            "-",
+            "5",
+            " PM"
+        ]
+    },
+    {
+        "input": [
+            "Come join the Gender + Sexuality Resource Center in McCosh Courtyard for the second year of our PrideFest Celebration TODAY, April 14th, at 5pm! There will be free food, activities, music, and a chance to build connection within your community and among campus partners! ALL ARE WELCOME!To RSVP, use this link!: bit.ly/PrideFest23 <|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "April",
+            " 14",
+            "th"
+        ],
+        "gold_output": [
+            "T",
+            "OD",
+            "AY",
+            ",",
+            " April",
+            " 14",
+            "th",
+            ",",
+            " at",
+            " 5",
+            "pm"
+        ]
+    },
+    {
+        "input": [
+            "Happy Earth Day everyone!!!I hope you are all enjoying the sunshine and good weather. This is the last reminder to come to the Garden's Earth Day celebration! The guided workday is happening now and the garden party will be starting at 5! Peas and Love,PGP<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "the",
+            " Garden",
+            "'s",
+            " Earth",
+            " Day",
+            " celebration"
+        ],
+        "gold_output": [
+            "PG",
+            "P"
+        ]
+    },
+    {
+        "input": [
+            "TL;DR Join us tonight for “Not Our Shabbat”: A Non-Zionist Alternative to Israel Shabbat, Hosted by the Alliance of Jewish Progressives. All Jewish and non-Jewish allies are welcome! Shabbat Services - 7pm / Speaking - 7:45pm / Dinner- 8pmRocky Classroom, Madison 202 (Above the Rocky common room)In response to the CJL hosting Israel shabbat tonight, we are hosting an alternative Shabbat space. All Jewish and non-Jewish allies are welcome! We are also circulating an open letter about combatting right-wing Zionism and support for Israeli apartheid on campus. For more context, see our opinion piece here. Thank you for considering signing, and please share this with supportive students, faculty, alumni, and community members in your networks. We hope to see you tonight. In solidarity, AJP *Thanks to Projects Board, ODUS, and the ORL for supporting this event.*<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Not",
+            " Our",
+            " Sh",
+            "abb",
+            "at"
+        ],
+        "gold_output": [
+            "Not",
+            " Our",
+            " Sh",
+            "abb",
+            "at"
+        ]
+    },
+    {
+        "input": [
+            "Hello Princeton!Consider applying to be an Undergraduate U-Store Trustee. You just have to attend three meetings a year at the Nassau Street store, and it's a great opportunity to gain experience on a board and network with alumni, plus it comes with a paycheck and free dinner! I've served as a U-Store Trustee for the past year two years, and it's been a great experience. We are looking for members of the class of '25 and '26. Let me know if you have any questions.To apply, just fill out this form by using the link by May 1!Please pass this on to your friends!Sincerely,The U-Store Trustee Board<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Under",
+            "graduate",
+            " U",
+            "-",
+            "Store",
+            " Trust",
+            "ee"
+        ],
+        "gold_output": [
+            "app",
+            "lying",
+            " to",
+            " be",
+            " an",
+            " Under",
+            "graduate",
+            " U",
+            "-",
+            "Store",
+            " Trust",
+            "ee"
+        ]
+    },
+    {
+        "input": [
+            "Hi everyone!On April 13th (this Thursday!), SPEAR will be hosting a screening of the documentary 13TH in RoMa Theater. The film covers mass incarceration in the United States, as well as its inseparable connection to systemic racism. THERE WILL BE FOOD :)Click here to RSVP for the event!: RSVPClick here to watch the trailer for the documentary: 13TH Trailer Hope to see you there!!!<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Ro",
+            "Ma",
+            " Theater"
+        ],
+        "gold_output": [
+            "Ro",
+            "Ma",
+            " Theater"
+        ]
+    },
+    {
+        "input": [
+            "get ready to headbang with us at terrace tonight with an amazing prog rock double header, featuring STRAWBERRY MILK and BARQUE!!!where? terracewhen? 11pm-latewhat? live musicwho? Strawberry Milk and Barquewhy? vibes!!!see u tonight <3music = love<|endoftext|>Who are the guests of this event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "St",
+            "raw",
+            "berry",
+            " Milk",
+            " and",
+            " Bar",
+            "qu",
+            "ew",
+            "hy"
+        ],
+        "gold_output": [
+            "ST",
+            "RAW",
+            "BER",
+            "RY",
+            " MIL",
+            "K",
+            " and",
+            " BAR",
+            "Q",
+            "UE"
+        ]
+    },
+    {
+        "input": [
+            "Princeton Cheese and Bad Movies Club Presents Super Mario Bros. (1993)â€‹ â€‹ ðŸ§€ ðŸ§€ ðŸ§€Join us tomorrow, Saturday April 15 at 10 pm in Frist 302, for an evening of fine cheese and cheesy cinema.â€‹ ðŸ§€ ðŸ§€ ðŸ§€Super Mario Bros. tells the story of Brooklyn plumbers Mario (Bob Hoskins) and Luigi (John Leguizamo) who discover a parallel world populated by the intelligent descendants of dinosaurs. It seems dinosaurs weren't destroyeâ€‹d by a meteor millions of years ago but hurled into another dimension and, now, they have plans to rule our world. It's up to our heroes to battle the evil King Koopa, free the beautiful Princess Daisy and save mankind. Be prepared for a thrilling and confusing fever dream of a movie. Super Mario Bros is an absolute must see.ðŸ§€ ðŸ§€ ðŸ§€Come for the cheese, the movie, or any combination of the two!ðŸ§€ ðŸ§€ ðŸ§€Email tf8350@princeton.edu with any questions.<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Princ",
+            "eton",
+            " Cheese",
+            " and",
+            " Bad",
+            " Movies",
+            " Club",
+            " Presents",
+            " Super",
+            " Mario",
+            " Bros",
+            "."
+        ],
+        "gold_output": [
+            "Princ",
+            "eton",
+            " Cheese",
+            " and",
+            " Bad",
+            " Movies",
+            " Club"
+        ]
+    },
+    {
+        "input": [
+            "Princeton Neuroscience Network Research SymposiumInterested in Neuroscience? Want to know what cool research is happening on Princeton’s Campus? Join us Tuesday, April 25, 2023, from 6-7:30 pm at the PNI Study Hall (ground level) to hear from some of Princeton Neuroscience Institute’s labs. Faculty members and graduate students will be presenting their current projects. Prospective Neuroscience majors and certificate students, here’s your chance to get the inside scoop on undergraduate research and make connections for your future. Open to any and all majors, undergraduate, and graduates!RSVP here if you’re interested:https://forms.gle/qjcbA3hHu3ziA3nz6Boba and a catered dinner will be served :)Jin Schofield (jin.schofield@princeton.edu)<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "P",
+            "ric",
+            "eton"
+        ],
+        "gold_output": [
+            "PN",
+            "I",
+            " Study",
+            " Hall"
+        ]
+    },
+    {
+        "input": [
+            "How have U.S.-China relations changed under the Biden Administration? How will China's recent military tests impact the U.S.-China relationship?Join the Alexander Hamilton Society on Friday, April 21st at 5pm for a discussion on the Biden Administration's China Policy with Kori Schake, Senior Fellow and Director of Defense Policy Studies at the American Enterprise Institute. There will be pizza and refreshments provided!Please RSVP here!<|endoftext|>Who are the guests of this event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "K",
+            "ori",
+            " Sch",
+            "ake"
+        ],
+        "gold_output": [
+            "K",
+            "ori",
+            " Sch",
+            "ake"
+        ]
+    },
+    {
+        "input": [
+            "Hello y'all! We warmly invite you to attend \"Faith and Knowledge,\" a panel discussion surrounding the role that faith plays in academic and research settings. We are very excited to announce that we will be hosting Princeton University academics Andrew Chignell, Jack Tannous, and Jonathan Gold. These professors come from a range of disciplines, such as religion, history, and philosophy, and will all bring their valuable insights around this topic.Mark your calendars for NEXT MONDAY (4/24) at Murray Dodge from 5:45-7. As always, a catered dinner will be provided. This may be the perfect opportunity to reflect on your academic journey this past year as you consider plans for the next. We look forward to the engaging discussions and questions everyone will bring this coming Monday.Warmly, The RLC<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Nob",
+            "le"
+        ],
+        "gold_output": [
+            "Murray",
+            " Dodge"
+        ]
+    },
+    {
+        "input": [
+            "Did you see our show ATLANTIS this semester?Do you want to give belly dancing a try?Then come dance with Raqs Belly Dance at our OPEN WORKSHOP thisSaturday 4/22 from 3:30PM-5:00PMin the Dillon Gym Multi-purpose Room (MPR)!The workshop will consist of belly dance-focused strength training exercises, an overview of belly dance basics, and a short combo! Great for all skill levels - no dance experience required!Let us know that you're interested here (https://forms.gle/7uu5xSpNrEVTngSS7)You don't need to fill out the form to attend, it just helps us gauge interest and numbers!Shimmies,Shayna Maleson (Raqs AD)<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "4",
+            "/",
+            "22"
+        ],
+        "gold_output": [
+            "Saturday",
+            " 4",
+            "/",
+            "22",
+            " from",
+            " 3",
+            ":",
+            "30",
+            "PM",
+            "-",
+            "5",
+            ":",
+            "00",
+            "PM"
+        ]
+    },
+    {
+        "input": [
+            "Please join us on Thursday, April 20 at 7:00 PM in McCosh 50 for the 2023 Anthony B. Evnin Lecture, \"Conservation Photography - Stories from the Field\". In this talk, award-winning scientists turned wildlife photographers and National Geographic Explorers Jen Guyton *18 (EEB) and Prasenjeet Yadav will share photos and stories from the savannas of Africa to the highest peaks of the Himalaya and discuss their journeys to becoming storytellers. Free raffles of prints!  This event is free and open to the public, but REGISTRATION IS REQUIRED: https://cst.princeton.edu/events/conservation-photographyQuestions? Contact PrincetonCST@princeton.edu<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Thursday",
+            ",",
+            " April",
+            " 20"
+        ],
+        "gold_output": [
+            "Thursday",
+            ",",
+            " April",
+            " 20",
+            " at",
+            " 7",
+            ":",
+            "00",
+            " PM"
+        ]
+    },
+    {
+        "input": [
+            "SENSORY FAIR with the AccessAbility CenterTo celebrate Autism Awareness and Acceptance Month, join the AccessAbility Center to explore our senses and learn about the experiences of people with sensory processing disorders. Engage through therapy dogs, fresh snacks, crafts/activities, and giveaways while supplies last!WHEN: NOW, Thursday, April 20th from 5pm to 6:30pmWHERE: Frist Lawn (Frist 242 in case of inclement weather)Activities include but are not limited to...Rita's Water IceFresh PopcornTherapy and Seeing-Eye DogsWeighted Blanket RaffleAccessAbility Center T-ShirtsBubble Machine and Bubble WandsOutdoor Yoga and MeditationSensory Stimulation Table including giveaways for fidget cubes, pop-its, and Sensory Crafts such as Slime and Glitter Jars!Sensory Mitigation Table displaying noise-canceling headphones and sunglasses!See you soon,The AccessAbility Center Fellows[Image: The \"AccessAbility Center: Beyond Limits\" navy blue and yellow logo. A description of the Sensory Fair as written above with outlined sketches of therapy and service dogs.]<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Thursday",
+            ",",
+            " April",
+            " 20",
+            "th"
+        ],
+        "gold_output": [
+            "NOW",
+            ",",
+            " Thursday",
+            ",",
+            " April",
+            " 20",
+            "th",
+            " from",
+            " 5",
+            "pm",
+            " to",
+            " 6",
+            ":",
+            "30",
+            "pm"
+        ]
+    },
+    {
+        "input": [
+            "HEY PRINCETON!Looking for a study break? Wanna relax to some classical music? Opus is performing the Mendelssohn String Quartet no. 2 and Tchaikovsky Piano Concerto with world-class pianist Per Tengstrand TODAY in Forbes lounge at 6pm!<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Op",
+            "us",
+            " is",
+            " performing",
+            " the",
+            " Mend",
+            "els",
+            "so",
+            "hn",
+            " String",
+            " Quart",
+            "et",
+            " no",
+            ".",
+            " 2",
+            " and",
+            " T",
+            "cha",
+            "ik",
+            "ovsky",
+            " Piano",
+            " Conc",
+            "erto",
+            " with",
+            " world",
+            "-",
+            "class",
+            " pian",
+            "ist",
+            " Per",
+            " T",
+            "eng",
+            "str",
+            "and",
+            " TODAY"
+        ],
+        "gold_output": [
+            "M",
+            "end",
+            "els",
+            "so",
+            "hn",
+            " String",
+            " Quart",
+            "et",
+            " no",
+            ".",
+            " 2",
+            " and",
+            " T",
+            "cha",
+            "ik",
+            "ovsky",
+            " Piano",
+            " Conc",
+            "erto"
+        ]
+    },
+    {
+        "input": [
+            "Hello!Are you doing some spring cleaning? Does your closet need a refresh? Are you interested in sustainable fashion? Need a quick break before reading period? If you answered yes to any of these questions, or if you just want to come to a cool event, come by the Princeton Conservation Society's sustainable clothing swap event Thursday, April 27th from 8-10 pm (TONIGHT) on Frist 1st floor! We will be at the tables in front of the pool room. There will be PCS members there, so feel free to stop by to swap clothes and learn more about fast fashion and PCS! Learn more fast fashion facts on our Instagram @princetonconservationHope to see you there!Feel free to reach out to me: mb8243@princeton.edu with any questions!<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "spring",
+            " cleaning"
+        ],
+        "gold_output": [
+            "s",
+            "ustainable",
+            " clothing",
+            " swap",
+            " event"
+        ]
+    },
+    {
+        "input": [
+            "Join the Alexander Hamilton Society on Friday, April 21st at 5pm in Robertson 001 for an exciting discussion of The Biden Administration’s Foreign Policy with Kori Schake, Senior Fellow and Director of Defense Policy Studies at the American Enterprise Institute. There will be boba for the first 30 attendees. Please RSVP here! As always, please reach out to me at czhunt@princeton.edu with any questions or if you would like to be added to our email list!Best,Calvin HuntPresident of Princeton AHS<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Friday",
+            ",",
+            " April",
+            " 21",
+            "st"
+        ],
+        "gold_output": [
+            "Friday",
+            ",",
+            " April",
+            " 21",
+            "st",
+            " at",
+            " 5",
+            "pm"
+        ]
+    },
+    {
+        "input": [
+            "Do you like laughing? Then see 15 of Princeton's funniest ex-gifted children in the annual Triangle Spring Show! Come for the musical sketch comedy, stay for the surprisingly riveting and thought-provoking themes. There will be crystal magic, foot fetishes, sports betting, How-to-tutorials, superheroes, babies, bees?? and of course sing-songy jokes that'll knock your socks off! The show isThursday, April 27 at 8:00:00 PM\r\nFriday, April 28 at 5:00:00 PM\r\nSaturday April 29 at 4:00:00 PM\r\nand at 10:30:00 PMin the Class of 1970 Theatre, Whitman College.Tickets are: Full price: $15.00; Student price: $8.00; Faculty / Staff price: $8.00; and free with Passport to the ArtsTickets can be found at: tickets.princeton.edu<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Tri",
+            "angle",
+            " Spring",
+            " Show"
+        ],
+        "gold_output": [
+            "Tri",
+            "angle",
+            " Spring",
+            " Show"
+        ]
+    },
+    {
+        "input": [
+            "Hi Everyone!The Tory is hosting a lunch discussion tomorrow (April 18) at the Center for Jewish Life from 12:30-1:30 with Neil Rogachevsky, a WSJ contributor and the associate director at the Straus Center for Torah and Western Thought at Yeshiva University. He teaches Israel Studies and political thought and recently came out with a new book on the history and political theory of the founding of the State of Israel. There are a couple of spots left, so fill out the following form if you’re interested in attending! It should be a great discussion (with free meal swipes for upperclassmen!)<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "April",
+            " 18"
+        ],
+        "gold_output": [
+            "tom",
+            "orrow",
+            " (",
+            "April",
+            " 18",
+            ")",
+            " from",
+            " 12",
+            ":",
+            "30",
+            "-",
+            "1",
+            ":",
+            "30"
+        ]
+    },
+    {
+        "input": [
+            "Hi Princeton!Tomorrow, the SHARE office is hosting TAKE BACK THE NIGHT, a yearly event during Sexual Assault Awareness Month in April meant to create a welcoming environment to support survivors of sexual violence. Share your experience and why it is important to end sexual violence on campus with an open mic, hear from amazing keynote speaker Lydia X. Z. Brown, enjoy free coffee club drinks and cookies, listen to a wonderful performance by the Wildcats, participate in the solidarity march, and take home some SHARE giveaways!When? April 20th from 7:30 - 10:30 pm Where? Princeton Neuroscience Institute outdoor patio (or indoors in case of rain)What Is Take Back The Night (TBTN)? TBTN is a national and international organization that brings survivors and co-survivors together to discuss their experiences with sexual violence. What Should I Expect? Open Mic, Free Coffee Club Drinks and Cookies, Keynote Speaker Lydia X. Z. Brown, Wildcats Performance, SHARE beanies and stickers, Solidarity March and more!More On Keynote Speaker–– Lydia X. Z. Brown (they/them/or no pronouns) (https://www.lydiaxzbrown.com/) is an advocate, organizer, attorney, and writer, who works at the intersection of state and sexual violence and disability justice. Among many other accolades and honors, they have been honored by the Obama White House as a Champion of Change, named to Public Knowledge’s 20/20 Visionaries and to them.’s Now List of LGBTQ+ Visionaries, and awarded the National Association for Law Placement Pro Bono Publico Award for their work and leadership. Schedule: Keynote address: 7:30 - 8PMOpen mic: ~ 8 - 9PMWildcat performance: ~ 9 - 9:15 pm Solidarity walk home: ~ 9:15 - 9:45 pmIt’s going to be a supportive atmosphere filled with moving stories, inspiring activism, delicious cookies, and good company. We hope to see you there! Please reach out to jdouvas@princeton.edu, kkopp@princeton.edu, or am9715@princeton.edu with any questions.<|endoftext|>Who are the guests of this event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Sh",
+            "ared",
+            " office"
+        ],
+        "gold_output": [
+            "L",
+            "ydia",
+            " X",
+            ".",
+            " Z",
+            ".",
+            " Brown"
+        ]
+    },
+    {
+        "input": [
+            "Have you seen these poorly drawn posters around campus? Are you tired of them making public spaces worse with their ugly, lazy design?  If so, you will reallllly want to come to the free Lobster Club + Acapellago Show on Saturday at 9:00 PM in Rocky-Mathey Theater so we can take them down. <|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Saturday"
+        ],
+        "gold_output": [
+            "Saturday",
+            " at",
+            " 9",
+            ":",
+            "00",
+            " PM"
+        ]
+    },
+    {
+        "input": [
+            "Greetings Princeton!!Come celebrate the end of spring classes with Archery Club and watch the most recent Archery World Cup competition with us!!Monday May 1, 2:30pm, Frist 210! Be there! We will have snacks!!Contact derdag@princeton.edu with any questions!<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Pr",
+            "ison"
+        ],
+        "gold_output": [
+            "F",
+            "rist",
+            " 210"
+        ]
+    },
+    {
+        "input": [
+            "Hola Princeton Community, Ever wanted to learn to dance cumbia? Do you like theater, but hate not being able to jump up there yourself? Come down to the Lewis Center for the Arts to see La Gran Cumbia Espectacular! Photo by: Larry Levanti/ Lewis Center for the ArtsThis is the brainchild of the theater department's very own Kaelani Burja '23, whose thesis show aims to bring together a group of performers and audience members alike in order to create a community around dance through theatrical scenes, dance pieces, comedy skits, videos, and, of course, audience participation. Kaitlee Ornelas '23 called the show, \"create, fun, and colorful,\" saying, \"I loved the show!! It made me feel at home and I just really was able to enjoy myself the entire time!\".Photo by: Larry Levanti/ Lewis Center for the ArtsThe show opens TONIGHT 4/21 in the Wallace Theater in the LCA at 8 pm and shows are Saturday 4/22, Thursday 4/27, and Friday 4/28 all at 8 pm. Tickets are FREE!<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "La",
+            " Gran",
+            " C",
+            "umb",
+            "ia",
+            " E",
+            "spect",
+            "acular"
+        ],
+        "gold_output": [
+            "La",
+            " Gran",
+            " C",
+            "umb",
+            "ia",
+            " E",
+            "spect",
+            "acular"
+        ]
+    },
+    {
+        "input": [
+            "Join us in 20 minutes for another Princeton Cigar Society Lecture! Today, we have a guest lecturer. He is the owner of a local cigar company, and he cannot wait to share with us his experience in the cigar world. 8pm in JRR A17!<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Princ",
+            "eton",
+            " Cig",
+            "ar",
+            " Society"
+        ],
+        "gold_output": [
+            "Princ",
+            "eton",
+            " Cig",
+            "ar",
+            " Society"
+        ]
+    },
+    {
+        "input": [
+            "PEESA is excited to announce its biggest event of the semester!! On April 28th, we will be hosting Lihem Russom and City James at Driven By Art: A Conversation on Navigating the Industry. Lihem is an Eritrean runway model and City is a director who has directed music videos for big names like Future & Lil Baby! Join us for a conversation on being Black in the industry and then an opportunity to do a photoshoot or star in a video with Lihem & City! Plenty of food catered! RSVP below, spots are limited!https://tinyurl.com/DBAPEESA<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "April",
+            " 28",
+            "th"
+        ],
+        "gold_output": [
+            "April",
+            " 28",
+            "th"
+        ]
+    },
+    {
+        "input": [
+            "Hey everyone!Today, at 6 pm, in Robertson 023, College Democrats and Whig will be hosting Princeton's state senator, Andrew Zwicker (D - LD16)! He's also affiliated with the Princeton Plasma Physics Lab and will be speaking to us about his work in the state legislature, the issues that are important in NJ like reproductive freedom, and the stakes of the upcoming elections this November in NJ. We'll hear from him and have a Q&A and the event will be catered with Mamoun's courtesy of Projects Board and ODUS!Sincerely,College Dems and Whig<|endoftext|>Who are the guests of this event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "College",
+            " Democrats",
+            " and",
+            " Wh",
+            "ig"
+        ],
+        "gold_output": [
+            "Andrew",
+            " Z",
+            "w",
+            "icker"
+        ]
+    },
+    {
+        "input": [
+            "Meet alumni medical students today in Frist 114 with the Black Premedical Society! Three medical school students will be joining us in person or by Zoom. Come for some Playa Bowls and to have your questions answered! If you cannot attend in person, feel free to join via Zoom and submit any questions (RSVP link below). We hope to see you there!https://forms.gle/SbDxzLb4u6ZR99vb7<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "today"
+        ],
+        "gold_output": [
+            "today"
+        ]
+    },
+    {
+        "input": [
+            "SENSORY FAIR with the AccessAbility CenterTo celebrate Autism Awareness and Acceptance Month, join the AccessAbility Center to explore our senses and learn about the experiences of people with sensory processing disorders. Engage through therapy dogs, fresh snacks, crafts/activities, and giveaways while supplies last!WHEN: TOMORROW, Thursday, April 20thWHERE: Frist Lawn (Frist 242 in case of inclement weather)Activities include but are not limited to...Rita's Water IceFresh PopcornTherapy and Seeing-Eye DogsWeighted Blanket RaffleAccessAbility Center T-ShirtsBubble Machine and Bubble WandsOutdoor Yoga and MeditationSensory Stimulation Table including giveaways for fidget cubes, pop-its, and Sensory Crafts such as Slime and Glitter Jars!Sensory Mitigation Table displaying noise-canceling headphones and sunglasses!See you soon,The AccessAbility Center Fellows[Image: The \"AccessAbility Center: Beyond Limits\" navy blue and yellow logo. A description of the Sensory Fair as written above with outlined sketches of therapy and service dogs.]<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Aut",
+            "ism",
+            " Awareness",
+            " and",
+            " Accept",
+            "ance",
+            " Month"
+        ],
+        "gold_output": [
+            "S",
+            "ENS",
+            "ORY",
+            " FA",
+            "IR"
+        ]
+    },
+    {
+        "input": [
+            "Ever dreamed of crashing a desi wedding? SASA is hosting a Mock Shaadi on April 27th! Join us at the CAF center for food, performances, henna, and more! See the flyer below and the SASA website for more details. Pre-register for the event here!Lots of love, The SASA Board<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "M",
+            "ock",
+            " Sha",
+            "adi"
+        ],
+        "gold_output": [
+            "M",
+            "ock",
+            " Sha",
+            "adi"
+        ]
+    },
+    {
+        "input": [
+            "5 beginners...6 weeks to learn...2 nights of shows...Only 1 pair can win (each night)...Join Princeton Ballroom Dancing Club in supporting our Ballroom 101 students and choosing the first ever Dancing with the Princeton Students champion!Come see what the Princeton Ballroom Dancing Club is all about! We're one of the only non-audition groups on campus and we have many ways to get involved, from class, social dances, competitions, and now our show! You can get a glimpse of all of this and more during our show...hope to see you there! Get your tickets here!Show times: Thursday 4/27: 7:30pm Dillon GFRFriday 4/28: 7:30pm Dillon GFRPricing:Students: $6General Public: $8<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Thursday",
+            " 4",
+            "/",
+            "27",
+            ":",
+            " 7",
+            ":",
+            "30",
+            "pm"
+        ],
+        "gold_output": [
+            "Thursday",
+            " 4",
+            "/",
+            "27",
+            ":",
+            " 7",
+            ":",
+            "30",
+            "pm",
+            ",",
+            " Friday",
+            " 4",
+            "/",
+            "28",
+            ":",
+            " 7",
+            ":",
+            "30",
+            "pm"
+        ]
+    },
+    {
+        "input": [
+            "Hey Princeton!This Saturday, 4/15/23, the Anime-Manga Club will be hosting an anime dubbing panel with voice actor Aaron Dismuke:------------Additional Information:Aaron Dismuke is an American voice actor, adaptive writer and director who works primarily with Funimation Entertainment. He got his start voice acting at age 9, as Hiro Sohma in Fruits Basket, moving on to voice Alphonse Elric in Fullmetal Alchemist by age 12. Since then, he’s voiced various roles including Leonardo Watch in Blood Blockade Battlefront, Van Fanel in Escaflowne (2016 version), Oscar in RWBY, Reinhard in Legend of the Galactic Heroes, Yo Takami in Deadman Wonderland, Twelve in Terror in Residence, Arslan in The Heroic Legend of Arslan, and Lucifer in Devil is a Part Timer. He worked as assistant director for Ninja Slayer and Fairy Tail, and director for Shomin Sample and Nanbaka. He’s part of the ADR writing teams that adapted scripts for Fairy Tail, Nanbaka, Tokyo Ghoul, and Full Metal Panic! Invisible Victory.We'd love to have your interest and questions at the event!Looking forward to seeing you, BLANK CREW 『 』<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "4",
+            "/",
+            "15",
+            "/",
+            "23"
+        ],
+        "gold_output": [
+            "This",
+            " Saturday",
+            ",",
+            " 4",
+            "/",
+            "15",
+            "/",
+            "23"
+        ]
+    },
+    {
+        "input": [
+            "Join the AccessAbility Center during a needed break from preparing for Dean's Date and Finals! The Fellows are hosting a series of Study Breaks throughout Reading Week!On Monday, May 1st from 2 to 4pm, come to Frist North Lawn to play and create with chalk! Draw designs or write messages for your friends.On Wednesday, May 3rd from 12:30 to 1:30pm, visit Coach - DPS's Therapy Dog - in the AccessAbility Center!On Thursday, May 4th, join the Fiber Arts Circle at the AccessAbility Center from 7:30 to 9:30pm! We will provide knitting materials, crochet materials, and beginner instruction. Learn a new skill, practice your craft, and meet some wonderful people.On Wednesday, May 10th, join the AccessAbility Center from 7:30 to 9:00pm to breath after Dean's Date and enjoy Legos and snacks!To request information or accommodations for any of these events, please email ability@princeton.edu.See you soon!The AccessAbility Center Fellows<|endoftext|>Who are the guests of this event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Dean",
+            "'s",
+            " Date",
+            " and",
+            " Finals"
+        ],
+        "gold_output": [
+            "Coach",
+            " -",
+            " DPS",
+            "'s",
+            " Therapy",
+            " Dog"
+        ]
+    },
+    {
+        "input": [
+            "Hello everyone!\r\nJoin INTERFACE tomorrow, April 17 in Frist 309 at 5 p.m. for a talk led by Erin Yoo '26! Find blurb below:\r\nDo you look like what you think you look like? Does your phone camera reflect the real you? How do image filters and social media change our sense of self? Join us in Frist 309 on Monday at 5pm to talk about the effect of beauty filters, photoshop, and more on our self-identity and awareness while drinking boba!INTERFACE is a student-organized discussion group that focuses on issues related to (information) technology and society. While we engage a diverse set of regular participants from a variety of academic departments, there is no formal membership - feel free to attend as many or as few meetings as you wish.RSVP for boba HERE!INTERFACEMaybe we're born with it. Maybe it's a generative adversarial network.<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Inter",
+            "face"
+        ],
+        "gold_output": [
+            "INTER",
+            "FACE"
+        ]
+    },
+    {
+        "input": [
+            "Hello all,The Federalist Society will be hosting its fourth event of the semester next Monday, April 17th at 6 pm in Robertson 002. The event will be a conversation between J. Joel Alicea and R.J. Snell over the moral authority of original meaning in constitutional interpretation. Professor Joel Alicea is Assistant Professor of Law and Co-Director of the Project on Constitutional Originalism and the Catholic Intellectual Tradition at the Columbus School of Law at the Catholic University of America. He graduated summa cum laude from Princeton University in 2010 and cum laude from Harvard Law School in 2013. He has previously clerked for Judge O'Scannlain on the U.S. Court of Appeals for the 9th Circuit and Justice Alito on the Supreme Court. He is an expert on issues of constitutional law and civil litigation, and he will defend originalism from a natural law perspective. R.J. Snell is a Visiting Lecturer at Princeton University, Editor-in-Chief of Public Discourse (the journal of the Witherspoon Institute), and Director of Academic Programs at the Witherspoon Institute. He earned his M.A. in philosophy from Boston College and his Ph.D. in philosophy from Marquette University. His intellectual interests include ethics, natural law, and the Catholic intellectual tradition. He will providing commentary after Professor Alicea delivers his remarks.As always, there will be free snacks, and you are encouraged to bring your friends and best questions!Best regards,Zach Gardner<|endoftext|>Who are the guests of this event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "J",
+            ".",
+            " Joel",
+            " Alice",
+            "a",
+            " and",
+            " R",
+            ".",
+            "J",
+            ".",
+            " Sn",
+            "ell"
+        ],
+        "gold_output": [
+            "J",
+            ".",
+            " Joel",
+            " Alice",
+            "a",
+            ",",
+            " R",
+            ".",
+            "J",
+            ".",
+            " Sn",
+            "ell"
+        ]
+    },
+    {
+        "input": [
+            "Have you seen these poorly drawn posters around campus? Are you tired of them making public spaces worse with their ugly, lazy design?  If so, you will reallllly want to come to the free Lobster Club + Acapellago Show on Saturday at 9:00 PM in Rocky-Mathey Theater so we can take them down. <|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Rock",
+            "y",
+            "-",
+            "Mat",
+            "hey",
+            " Theater"
+        ],
+        "gold_output": [
+            "Rock",
+            "y",
+            "-",
+            "Mat",
+            "hey",
+            " Theater"
+        ]
+    },
+    {
+        "input": [
+            "Hello all! Come to our performance, \"How to Find a Missing Black Woman,\" in Hearst Theatre (in the LCA) at 8pm on Monday, May 1. Through a mix of dance, music, comedy, and drama we investigate the ways in which Black women disappear from relationships, communities, and media representation. After the show everyone is invited to participate in a reflective discussion. This event is open to anyone in the Princeton community and is unticketed. You can find more information at https://arts.princeton.edu/events/how-to-find-a-missing-black-woman/. We look forward to seeing you there, Members of the ATL 498 class<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "How",
+            " to",
+            " Find",
+            " a",
+            " Missing",
+            " Black",
+            " Woman"
+        ],
+        "gold_output": [
+            "How",
+            " to",
+            " Find",
+            " a",
+            " Missing",
+            " Black",
+            " Woman"
+        ]
+    },
+    {
+        "input": [
+            "Sign up here for tarot card readings 11 am - 12 pm tomorrow at our Campus Club location if you're interested! <|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "11",
+            " am",
+            " -",
+            " 12",
+            " pm"
+        ],
+        "gold_output": [
+            "11",
+            " am",
+            " -",
+            " 12",
+            " pm",
+            " tomorrow"
+        ]
+    },
+    {
+        "input": [
+            "Please join us this Thursday, April 20 at 7:00 PM in McCosh 50 for the 2023 Anthony B. Evnin Lecture, \"Conservation Photography - Stories from the Field\". In this talk, award-winning scientists turned wildlife photographers and National Geographic Explorers Jen Guyton *18 (EEB) and Prasenjeet Yadav will share photos and stories from the savannas of Africa to the highest peaks of the Himalaya and discuss their journeys to becoming storytellers. Free raffle of signed prints!   This event is free and open to the public, but REGISTRATION IS REQUIRED: https://cst.princeton.edu/events/conservation-photography Questions? Contact PrincetonCST@princeton.edu<|endoftext|>Who are the guests of this event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Jennifer",
+            " Guy",
+            "ton",
+            " *",
+            "18",
+            " (",
+            "EE",
+            "B",
+            ")",
+            " and",
+            " Pr",
+            "as",
+            "en",
+            "je",
+            "et",
+            " Yad",
+            "av"
+        ],
+        "gold_output": [
+            "Jen",
+            " Guy",
+            "ton",
+            " *",
+            "18",
+            " (",
+            "EE",
+            "B",
+            ")",
+            " and",
+            " Pr",
+            "as",
+            "en",
+            "je",
+            "et",
+            " Yad",
+            "av"
+        ]
+    },
+    {
+        "input": [
+            "TONIGHT and every Thursday from 10-11pm, the Princeton Pianists Ensemble will be performing at Coffee Club NCW! Join us for great coffee and great vibes, and great musicThis event is sponsored by NCW<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "C",
+            "off",
+            "ee",
+            " Club",
+            " NC",
+            "W"
+        ],
+        "gold_output": [
+            "C",
+            "off",
+            "ee",
+            " Club",
+            " NC",
+            "W"
+        ]
+    },
+    {
+        "input": [
+            "Join the Alexander Hamilton Society on Friday, April 21st at 5pm in Robertson 001 for an exciting discussion of The Biden Administration’s Foreign Policy with Kori Schake, Senior Fellow and Director of Defense Policy Studies at the American Enterprise Institute. There will be boba for the first 30 attendees. Please RSVP here!As always, please reach out to me at czhunt@princeton.edu with any questions or if you would like to be added to our email list!Best,Calvin HuntPresident of Princeton AHS<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Alexander",
+            " Hamilton",
+            " Society"
+        ],
+        "gold_output": [
+            "disc",
+            "ussion",
+            " of",
+            " The",
+            " Biden",
+            " Administration",
+            "�",
+            "�",
+            "s",
+            " Foreign",
+            " Policy"
+        ]
+    },
+    {
+        "input": [
+            "FREE & UNTICKETEDFOOTNOTES A Cappella ConcertFeaturing:EXPRESSIONS Dance CompanyQUIPFIRE Improv ComedyWEDNESDAY, MAY 3rd @ 9 PMLCA FORUM<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "C",
+            "app",
+            "ella",
+            " Concert",
+            "F",
+            "eaturing",
+            ":",
+            "EX",
+            "PRESS",
+            "IONS",
+            " Dance",
+            " Company",
+            "QU",
+            "IP",
+            "FI",
+            "RE",
+            " Impro",
+            "v",
+            " Comedy",
+            "W",
+            "ED",
+            "NES",
+            "DAY",
+            ",",
+            " MAY",
+            " 3",
+            "rd"
+        ],
+        "gold_output": [
+            "FO",
+            "OT",
+            "NOT",
+            "ES",
+            " A",
+            " C",
+            "app",
+            "ella",
+            " Concert"
+        ]
+    },
+    {
+        "input": [
+            "Did you see our show ATLANTIS this semester?Do you want to give belly dance a try??Then come to Raqs Belly Dance's open workshop TODAY from 3:30pm to 5:00pm!Location: Dillon Gym Multi-purpose Room (MPR)Come join us for some exercises to strengthen your belly dancing muscles, an overview of some foundational belly dance moves, and a short combination!Let us know you're interested with this quick form! (https://forms.gle/XvQrEPuArfREuULL9)Shimmies,Shayna Maleson (Raqs AD)<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Ra",
+            "qs",
+            " B",
+            "elly",
+            " Dance"
+        ],
+        "gold_output": [
+            "Ra",
+            "qs",
+            " B",
+            "elly",
+            " Dance"
+        ]
+    },
+    {
+        "input": [
+            "Dear Princeton Community,The University Press Club cordially invites you to attend the Press Club’s annual Bill Rukeyser'54 lecture led by Professor Channing Joseph (she/he) on the theme \"Queer Black Histories.\" The lecture will be held on April 27th, at 7:00 pm in 100 Arthur Lewis Auditorium in Robertson Hall.Professor Channing Joseph is an award-winning journalist with two decades of experience covering race, poverty, social justice and other topics in the U.S. and abroad. She is currently a contributor to The Nation and frequently appears on the BBC, CBC and other outlets. Her work has also appeared in The New York Times, The Associated Press, and The Guardian. He will be sharing his insights on the subject of Queer Black Histories, and his talk will be followed by a short Q&A session. The Bill Rukeyser'54 lecture series is a University Press Club tradition that was established to promote scholarly discourse on a variety of subjects. This talk is an excellent opportunity to celebrate journalism and connect with professionals in the field. Whether you are curious about a career in journalism or just want to learn more about this fascinating topic, this year’s Bill Rukeyser ‘54 lecture is a great way to expand your personal and professional horizons. Please feel free to extend this invitation to anyone who might be interested in attending the lecture.Thank you for your attention, and we hope to see you on April 27th.Sincerely,The University Press Club<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "April",
+            " 27",
+            "th"
+        ],
+        "gold_output": [
+            "April",
+            " 27",
+            "th",
+            ",",
+            " at",
+            " 7",
+            ":",
+            "00",
+            " pm"
+        ]
+    },
+    {
+        "input": [
+            "Hi all!TL;DR: Join us for AI E-Pub TOMORROW April 14th from 7-8 pm in Dod Hall Basement. Come meet like-minded people, share your ideas, and learn from each other while enjoying free pizza! RSVP now to secure your spot.E-Pub is back TOMORROW Friday, 4/14  @  7 - 8 pm in Dod Hall Basement. RSVP Here!  WE NEED YOU TO GET HYPE! Whether you're a seasoned entrepreneur or just starting out, come join us for a casual evening of networking and pizza. We'll have a relaxed atmosphere where you can connect with like-minded people, share your ideas and learn from each other.Our theme for the evening will be centered around AI and how it's impacting the world of entrepreneurship. From new economic opportunities, greater technical accessibility, to challenges and ethical considerations, we'll explore how AI is shaping the future of entrepreneurship.**Dod Basement is located in the entrance right across from Little Hall, near Dillon Gym**What is E-Pub?Hosted by E-Club and Prospect Student Ventures, E-Pub is the place for the entire student entrepreneurial community to meet each other, lol chat, make friends, pitch ideas, geek out, and find co-founders and student talent. It is a low-key, drop-in event for us to learn about and support each other's entrepreneurial journeys and ideas. EVERYONE is welcome, regardless of your participation in any company, group or club. It is a great way for us all to get together and just… hang out!Please join our community email list so that we can hear your feedback and keep you updated on E-Pub news! Looking forward to seeing y’all.Best,PSV & E-Club<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Friday",
+            ",",
+            " 4",
+            "/",
+            "14"
+        ],
+        "gold_output": [
+            "T",
+            "OM",
+            "OR",
+            "R",
+            "OW",
+            " April",
+            " 14",
+            "th",
+            " from",
+            " 7",
+            "-",
+            "8",
+            " pm"
+        ]
+    },
+    {
+        "input": [
+            "Hi everyone!A reminder to RSVP to join the Princeton Association of Women in STEM (PAWS), Princeton Women in CS (PWiCS), and our graduate friends at the Women in STEM Leadership Council for an Industry Panel tomorrow, April 20th, from 6-7pm. Hear from our panelists from Meta, Amazon, and Merck about their experiences in industry, and bring your questions! We will have dinner from EFES, and there will be a raffle with prizes!!Please use the following link to RSVP for the panel: shorturl.at/kzIQYWe look forward to seeing you at the event!Kind regards,PAWS, PWiCS, and WSTEM Leadership Council<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Princ",
+            "eton",
+            " Association",
+            " of",
+            " Women",
+            " in",
+            " STEM"
+        ],
+        "gold_output": [
+            "PA",
+            "WS",
+            ",",
+            " P",
+            "Wi",
+            "CS",
+            ",",
+            " and",
+            " W",
+            "STEM",
+            " Leadership",
+            " Council"
+        ]
+    },
+    {
+        "input": [
+            "Hi all!Interested in working at a nonprofit health center? The Student Volunteers Council at the Pace Center is partnering with the Henry J. Austin Health Center — a federally qualified health center in Trenton, NJ — and is looking for students interested in either volunteering with or helping to lead this project next semester! We’ll be holding an info session Monday, May 1st, at 12-1 in East Pyne 010 for those interested. Lunch will be provided! To RSVP or to express interest, please fill out the form here. If you have any further questions please feel free to reach out to me at cynthiabian@princeton.edu.<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "info",
+            " session"
+        ],
+        "gold_output": [
+            "info",
+            " session"
+        ]
+    },
+    {
+        "input": [
+            "Hi Princeton!Tomorrow, the SHARE office is hosting TAKE BACK THE NIGHT, a yearly event during Sexual Assault Awareness Month in April meant to create a welcoming environment to support survivors of sexual violence. Share your experience and why it is important to end sexual violence on campus with an open mic, hear from amazing keynote speaker Lydia X. Z. Brown, enjoy free coffee club drinks and cookies, listen to a wonderful performance by the Wildcats, participate in the solidarity march, and take home some SHARE giveaways!When? April 20th from 7:30 - 10:30 pm Where? Princeton Neuroscience Institute outdoor patio (or indoors in case of rain)What Is Take Back The Night (TBTN)? TBTN is a national and international organization that brings survivors and co-survivors together to discuss their experiences with sexual violence. What Should I Expect? Open Mic, Free Coffee Club Drinks and Cookies, Keynote Speaker Lydia X. Z. Brown, Wildcats Performance, SHARE beanies and stickers, Solidarity March and more!More On Keynote Speaker–– Lydia X. Z. Brown (they/them/or no pronouns) (https://www.lydiaxzbrown.com/) is an advocate, organizer, attorney, and writer, who works at the intersection of state and sexual violence and disability justice. Among many other accolades and honors, they have been honored by the Obama White House as a Champion of Change, named to Public Knowledge’s 20/20 Visionaries and to them.’s Now List of LGBTQ+ Visionaries, and awarded the National Association for Law Placement Pro Bono Publico Award for their work and leadership. Schedule: Keynote address: 7:30 - 8PMOpen mic: ~ 8 - 9PMWildcat performance: ~ 9 - 9:15 pm Solidarity walk home: ~ 9:15 - 9:45 pmIt’s going to be a supportive atmosphere filled with moving stories, inspiring activism, delicious cookies, and good company. We hope to see you there! Please reach out to jdouvas@princeton.edu, kkopp@princeton.edu, or am9715@princeton.edu with any questions.<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "April",
+            " 20",
+            "th"
+        ],
+        "gold_output": [
+            "April",
+            " 20",
+            "th",
+            " from",
+            " 7",
+            ":",
+            "30",
+            " -",
+            " 10",
+            ":",
+            "30",
+            " pm"
+        ]
+    },
+    {
+        "input": [
+            "Hey Princeton,Basement: A Student Stand-up Comedy Group is performing TONIGHT at 7pm at Whitman Theater! Longer sets, new material, bigger laughs--we've got it all!Go to https://tickets.princeton.edu to grab your tickets while they last, and bring your friends along!!<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "7",
+            "pm"
+        ],
+        "gold_output": [
+            "TON",
+            "IGHT",
+            " at",
+            " 7",
+            "pm"
+        ]
+    },
+    {
+        "input": [
+            "Princeton Neuroscience Network Coffee ChatAre you looking to connect with upperclassmen within the neuroscience department? Are you looking for some free coffee? Look no further than the PNN coffee chat! The Princeton Neuroscience Network will be hosting a coffee chat at Campus Club on Saturday, April 15th - come by anytime from 11-2pm!<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Saturday"
+        ],
+        "gold_output": [
+            "Saturday",
+            ",",
+            " April",
+            " 15",
+            "th",
+            " 11",
+            "-",
+            "2",
+            "pm"
+        ]
+    },
+    {
+        "input": [
+            "Hi Princeton!!Do you want to learn about the first-ever drag queen? Hear from an industry professional about historical journalism? Munch on some free fruit and cheese from Olives? Come to this year's Rukeyser Lecture today at 7pm in Robertson 100!Visiting Journalism professor Channing Joseph will be discussing his decades of experience investigating incredible figures in Black queer history and publishing historical journalism pieces in publications like BBC!Hope to see you there!Best,The University Press Club<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "The",
+            " University",
+            " Press",
+            " Club"
+        ],
+        "gold_output": [
+            "The",
+            " University",
+            " Press",
+            " Club"
+        ]
+    },
+    {
+        "input": [
+            "Watch the ORIGINAL WORK by Aaron Ventresca ‘24 come to life onstage!Performances are NEXT WEEK: THURSDAY(4/27) and FRIDAY(4/28) at 8PM and SATURDAY(4/29) at 2PM in the Frist Theater. Tickets are $8 or free through Pathway to the Arts at tickets.princeton.edu!What is Laid Off About?What happens when a construction worker meets a professional ballet dancer?Bobby Tuna lives with his eccentric mother, struggling to find contracting jobs during the financial crisis of 2008. Along with his wise-cracking, hockey-loving friends, he begins working on renovations for the city’s ballet company. He unexpectedly finds himself falling for Dallas, a corps de ballet member in the company… and the girlfriend of his boss Derill Mafa. With his hilarious henchmen Morton and Goon, Derill Mafa will do whatever he can to thwart the growing relationship between Bobby and Dallas. Tightly-knit friendships, shared financial hardships, and comedic antics bring the characters to life when two vastly different worlds—building and ballet—collide.We look forward to seeing you at the shows!Princeton University PlayersWebsite: pup.princeton.edu<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Path",
+            "way",
+            " to",
+            " the",
+            " Arts"
+        ],
+        "gold_output": [
+            "Princ",
+            "eton",
+            " University",
+            " Players"
+        ]
+    },
+    {
+        "input": [
+            "fantastic flavors:• rose black tea• peach apricot white tea• 铁观音 tie guan yin oolong tea!in the campus club backyard, 5pm thursday april 20th!<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "the",
+            " campus",
+            " club",
+            " backyard"
+        ],
+        "gold_output": [
+            "campus",
+            " club",
+            " backyard"
+        ]
+    },
+    {
+        "input": [
+            "Princeton Neuroscience Network Coffee ChatAre you looking to connect with upperclassmen within the neuroscience department? Are you looking for some free coffee? Look no further than the PNN coffee chat! The Princeton Neuroscience Network will be hosting a coffee chat at Campus Club on Saturday, April 15th - come by anytime from 11-2pm!<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Princ",
+            "eton",
+            " Neuroscience",
+            " Network"
+        ],
+        "gold_output": [
+            "Princ",
+            "eton",
+            " Neuroscience",
+            " Network"
+        ]
+    },
+    {
+        "input": [
+            "FREE BOBA IN FRIST IF YOU BUY A THURDAY TICKET! ENTER IN A RAFFLE FOR FREE DRIFT MERCH IF YOU BUY A TICKET FOR OTHER SHOWS!Vroom vroom Princeton, I hope you’re buckled up and ready to ride because diSiac Dance Company presents…DRIFTTheatre Intime4.20 at 8pm4.21 at 7pm & 10pm4.22 at 7pm & 10pm________________________________________________________Get your tickets here, Princeton Ticketing website, before they sell out! $8 for students and $12 for general public. Tickets to DRIFT are free with Passport to the Arts. Follow us on our Instagram, @disiacdance, for more DRIFT updates.See you at the show!_______________________________________________diSiac Dance Company collaborates with its members to build community, empower, and engage artists and ensure that every voice feels heard, valued, and connected. We support the growth of individuals and dancers while educating our membership and community about the background and cultures that create the dancers and styles we perform.<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "D",
+            "ress"
+        ],
+        "gold_output": [
+            "di",
+            "S",
+            "iac",
+            " Dance",
+            " Company"
+        ]
+    },
+    {
+        "input": [
+            "Dear all,Please join the Princeton Progressive Law Society for today's lecture at 5:00pm –Professor Olatunde Johnson, Ruth Bader Ginsburg '59 Professor of Law at Columbia Law SchoolTitle: Is the Supreme Court Democratically Legitimate?Time & Place: 5:00-6:00pm TODAY in Louis A. Simpson 271Olatunde Johnson is the Ruth Bader Ginsburg ’59 Professor of Law at Columbia Law School, where she is distinguished for her scholarship on antidiscrimination law and civil procedure. She is an elected member of the American Law Institute. In addition, Professor Johnson served on President Biden’s Commission on the Supreme Court to produce concrete recommendations to reform the nation’s highest court to the White House. Professor Johnson will be discussing the legitimacy of the Supreme Court as a democratic institution – not only in its formation and appointment process, but addressing broader questions of the breadth and penetration of the Court’s political power.progressivelaw.princeton.edu<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Louis",
+            " A",
+            ".",
+            " Simpson"
+        ],
+        "gold_output": [
+            "Louis",
+            " A",
+            ".",
+            " Simpson",
+            " 271"
+        ]
+    },
+    {
+        "input": [
+            "Hello Garden Enthusiasts! Join the Princeton Garden Project this Earth Day for a day of gardening and Fun! From 3-5pm we will be having a guided workday with a beginner-friendly gardening tutorial, followed by an evening of pizza and desserts, lawn games, paint a pot, and free plants from 5-7pm! We hope to see you at 81 Alexander st on April 22nd!Peas and Love, The Princeton Garden Project<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "April",
+            " 22",
+            "nd"
+        ],
+        "gold_output": [
+            "April",
+            " 22",
+            "nd"
+        ]
+    },
+    {
+        "input": [
+            "The Class of 2023 Last Lectures Commencement Committee Presents its first event, The Myths that Built a Nation: Deconstructing what we know about America on Wednesday, April 19th at 4.30pm in Robertson 100 (Arthur Lewis Auditorium).  Join us in conversation with Prof. Julian Zelizer, moderated by Prof. Deborah Amos, to investigate how the past is distorted in modern America, and the future challenges of American politics. The event will also focus on how graduating seniors can navigate an America rife with misinformation and misrepresentations of the past. Julian Zelizer is the Malcolm Stevenson Forbes, Class of 1941 Professor of History and Public Affairs at Princeton School of Public & International Affairs. Prof. Zelizer recently published an edited volume called 'Myth America: Historians Take on the Biggest Lies and Legends About Our Past' which he co-edited with Kevin Kruse.The event will be moderated by Deborah Amos, an international correspondent for the National Public Radio and a Ferris Professor of Journalism at Princeton University. The event is open to the entire Princeton community, and is not just limited to the Class of 2023. If you have any special request or require any accommodations, please contact Kanishkh Kanodia (kkanodia@princeton.edu).<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Wednesday",
+            ",",
+            " April",
+            " 19",
+            "th"
+        ],
+        "gold_output": [
+            "Wednesday",
+            ",",
+            " April",
+            " 19",
+            "th",
+            " at",
+            " 4",
+            ".",
+            "30",
+            "pm"
+        ]
+    },
+    {
+        "input": [
+            "This weekend only, come out to the Drapkin Studio at the LCA to see:Three Loves: The Musical, by Halle MitchellWant a good laugh? How about a cathartic cry? Or a sweet \"Awwww\"?Why not ALL THREE?!You don't want to miss this AMAZING show that will give you all the feels, while also telling a super relatable story about navigating love as a young adult who's still trying to find their way.Oh, and did I mention it's FREE? See you all there!<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Sunday",
+            " only"
+        ],
+        "gold_output": [
+            "This",
+            " weekend"
+        ]
+    },
+    {
+        "input": [
+            "TL;DR — EARTH DAY FESTIVAL HOSTED BY PRINCETON ENVIRONMENTAL GROUPS ON APRIL 22ND, FIRESTONE PLAZA, 2-3:30 PMCome out to a FABULOUS EARTH DAY FESTIVAL, this next Saturday, April 22nd, from 2-3:30 PM at Firestone Plaza.There will be: FUN!SPEECHES!OUTDOOR GAMES!FACE PAINTING and PLANT POT DECORATING!FOOD from local vendors including JAMMIN’ CREPES and TERHUNE ORCHARDS!Join Princeton’s environmental groups and activists for an afternoon of celebration of our planet, listen in on incredible student speakers, and get fired up to fight for our planet.SEE YOU THERE!Princeton Environmental Activism CoalitionDivest PrincetonPrinceton College DemocratsPrinceton Student Climate InitiativePrinceton Garden ProjectPrinceton University Energy AssociationPrinceton YDSASpecial thanks to the Projects Boards and the Pace Center for making this festival possible!<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Princ",
+            "eton",
+            " Environmental",
+            " Activ",
+            "ism",
+            " Coalition"
+        ],
+        "gold_output": [
+            "PR",
+            "INC",
+            "ET",
+            "ON",
+            " EN",
+            "V",
+            "IR",
+            "ON",
+            "MENT",
+            "AL",
+            " GR",
+            "OU",
+            "PS"
+        ]
+    },
+    {
+        "input": [
+            "Join the Princeton Psychology Society today (4/24) for a fun social event: Personality Tests with the Princeton Psychology Society - Buzzfeed Game Night! Free Boba and Tacoria Nachos will be available so come hungry for food, friends, and a fantastic night of learning about psychology. The goal of this event is to give students the opportunity to talk informally about psychology as a whole through the lens of personality tests and to think about the different ways in which psychologically related information is presented. (Myers-Briggs versus Buzzfeed quizzes are obviously quite different!) This event is open to and for EVERYONE regardless of discipline or academic interests!When: Monday, April 24th @ 7:00 - 8:30 pm Where: PNI Study lounge (ground floor of PNI)To request accommodations for this event please email jennaelliott@princeton.edu. Questions, comments, concerns? Don't hesitate to reach out as well!Princeton Psychology Society Community Committee<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Person",
+            "ality",
+            " Tests",
+            " with",
+            " the",
+            " Princeton",
+            " Psychology",
+            " Society",
+            " -",
+            " Buzz",
+            "feed",
+            " Game",
+            " Night",
+            "!"
+        ],
+        "gold_output": [
+            "Person",
+            "ality",
+            " Tests",
+            " with",
+            " the",
+            " Princeton",
+            " Psychology",
+            " Society",
+            " -",
+            " Buzz",
+            "feed",
+            " Game",
+            " Night"
+        ]
+    },
+    {
+        "input": [
+            "Hello all,The Federalist Society will be hosting its fourth event of the semester next Monday, April 17th at 6 pm in Robertson 002. The event will be a conversation between J. Joel Alicea and R.J. Snell over the moral authority of original meaning in constitutional interpretation. Professor Joel Alicea is Assistant Professor of Law and Co-Director of the Project on Constitutional Originalism and the Catholic Intellectual Tradition at the Columbus School of Law at the Catholic University of America. He graduated summa cum laude from Princeton University in 2010 and cum laude from Harvard Law School in 2013. He has previously clerked for Judge O'Scannlain on the U.S. Court of Appeals for the 9th Circuit and Justice Alito on the Supreme Court. He is an expert on issues of constitutional law and civil litigation, and he will defend originalism from a natural law perspective. R.J. Snell is a Visiting Lecturer at Princeton University, Editor-in-Chief of Public Discourse (the journal of the Witherspoon Institute), and Director of Academic Programs at the Witherspoon Institute. He earned his M.A. in philosophy from Boston College and his Ph.D. in philosophy from Marquette University. His intellectual interests include ethics, natural law, and the Catholic intellectual tradition. He will providing commentary after Professor Alicea delivers his remarks.As always, there will be free snacks, and you are encouraged to bring your friends and best questions!Best regards,Zach Gardner<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "April",
+            " 17",
+            "th"
+        ],
+        "gold_output": [
+            "next",
+            " Monday",
+            ",",
+            " April",
+            " 17",
+            "th",
+            " at",
+            " 6",
+            " pm"
+        ]
+    },
+    {
+        "input": [
+            "Dear all,Please register at the below link if you wish to attend the Progressive Law Society lecture with University President Christopher Eisgruber '83, \"Free Speech as a Progressive Ideal,\" this coming Friday.Location: Betts Auditorium, Architecture BuildingTime: 4:30-5:30pm, Friday, April 28thRegister here: https://forms.gle/7zJEp1sSUGWBfhMy7More details about the event at progressivelaw.princeton.edu<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Free",
+            " Speech",
+            " as",
+            " a",
+            " Progressive",
+            " Ideal"
+        ],
+        "gold_output": [
+            "\"",
+            "Free",
+            " Speech",
+            " as",
+            " a",
+            " Progressive",
+            " Ideal",
+            "\""
+        ]
+    },
+    {
+        "input": [
+            "Season 11, Episode 4 of All-Nighter with Tiffany Huang and co-host Asher Muldoon TOMORROW NIGHT AT 10:45 PM!Friday April 21st- Frist Theater 10:45 PM-12 AM. Tickets are free!All-Nighter is Princeton's first and only late-night talk show. We run 5 shows in Frist Theater throughout the year, and each episode features interviews with a guest, as well as student performances, comedy sketches, and more!This is the fourth episode of Season 11 with Tiffany Huang and co-host Asher MuldoonGuests include Nica Evans '24 of the Black Theater Collective, musical guest Imaan Khasru '23, and a solo performance from Ramona Jade, as well as the many student actors who will be featured in our sketches. The show is completely FREE and open to the student body. Free tickets can be reserved at tickets.princeton.edu! No login required.We can't wait to see you there!-- The All-Nighter Team<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "As",
+            "her",
+            " Mu",
+            "ld",
+            "oon"
+        ],
+        "gold_output": [
+            "The",
+            " All",
+            "-",
+            "N",
+            "ighter",
+            " Team"
+        ]
+    },
+    {
+        "input": [
+            "REMINDER TO COME TO SUNDAES UNDER THE STARSTOMORROW for FREE ICE CREAM SUNDAES!!22 April, 2023 (Saturday 7:30 - 9 pm) at Frist South LawnOpen to EVERYONE!Bring all your friends and have a good time!RSVP here<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Free",
+            " ICE",
+            " CRE",
+            "AM",
+            " SUN",
+            "DA",
+            "ES",
+            "!!"
+        ],
+        "gold_output": [
+            "S",
+            "UN",
+            "DA",
+            "ES",
+            " UNDER",
+            " THE",
+            " STAR",
+            "S"
+        ]
+    },
+    {
+        "input": [
+            "Hi Princeton!SASA's biggest event of the semester, Mock Shaadi, is TONIGHT (Thursday 4/27) from 8:00pm-late at CAF center!! The Mock Shaadi (mock wedding) is a South-Asian wedding reception style party, without the actual wedding. This event is open to all, and cultural attire is encouraged but absolutely not required! Come to enjoy:South Asian food + dessertsMocktail barHenna stationProfessional Photo boothStudent Group PerformancesDJ + dancing See details on the flyer below, including the QR code to pre-register for the event. Get hype and hope to see you all there!Lots of Love,The SASA Board<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Thursday",
+            " 4",
+            "/",
+            "27"
+        ],
+        "gold_output": [
+            "TON",
+            "IGHT",
+            " (",
+            "Thursday",
+            " 4",
+            "/",
+            "27",
+            ")",
+            " from",
+            " 8",
+            ":",
+            "00",
+            "pm",
+            "-",
+            "late"
+        ]
+    },
+    {
+        "input": [
+            "RUTHLESS GANG POLITICS. JAW-DROPPING CHOREOGRAPHED FIGHTS. LIVE, THUNDEROUS DRUMS. Love theater? Love Chinese culture? Want to hear a play in English with parts in Mandarin? What are you waiting for?Tickets are now available for Princeton Chinese Theatre’s spring semester original show Dragons in DespairOur first-ever show in ENGLISH with selected Chinese! About the play: It’s 1910s Shanghai. The glamorous, busy city is filled with all walks of life, but even mice must pay respect to the Axe Gang. Only four kung fu masters dare take on the gang, putting their lives on the line. But the gang is not a united front. The Four Heads of the Axe Gang each have their own motives, especially a scheming Brother Three. They engage in a battle royale of both fists and wits. Who will have the last laugh?https://tickets.princeton.edu/May 5 at 8 p.m.May 6 at 1:30 pm. and 8 p.m. May 7 at 1:30 p.m. Location: Whitman TheatreDirected by Philip Wang and co-directed by Elliot Lee and Angela TanPCT is also accepting play proposals for fall 2023: Are you a writer, director, and lover of Chinese-American references? You can pitch as the DIRECTOR and/or the WRITER for an existing play, an adaptation, or an original show (musical is welcome too) in CHINESE, BILINGUAL, or even ENGLISH as long as the show has a Chinese cultural context. Or, if you're simply excited to see PCT make a show you like into a production, let us know as well! No commitment required! Most of our past directors, writers, crew, and cast didn’t have experience before joining PCT. We will also help you along the way if you need co-directors/writers and other types of support.Fill out this GOOGLE FORM. Email Briony Zhao at dingruz@princeton.edu for questions.<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "D",
+            "olphins",
+            " in",
+            " Despair"
+        ],
+        "gold_output": [
+            "Dr",
+            "agons",
+            " in",
+            " Despair"
+        ]
+    },
+    {
+        "input": [
+            "Hi,My name is Ryan, and along with a few friends in a club on campus, I am currently researching Aritzia's explosion within fashion! If you have 30 seconds, please fill out this survey on your opinion of Aritzia and the women's fashion landscape generally. Our club will give a $50 gift card to a randomly chosen survey participant.Survey Link: https://forms.gle/m7eE7H4R8mMcWrUZ6Please email me at ryjiang@princeton.edu if you have any questions.Thanks,Ryan<|endoftext|>What is the title of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "A",
+            "ritz",
+            "ia",
+            "'s",
+            " explosion"
+        ],
+        "gold_output": [
+            "sur",
+            "vey",
+            " on",
+            " your",
+            " opinion",
+            " of",
+            " A",
+            "ritz",
+            "ia",
+            " and",
+            " the",
+            " women",
+            "'s",
+            " fashion",
+            " landscape"
+        ]
+    },
+    {
+        "input": [
+            "Hi everyone, I am writing to remind you to join the Armenian Society on April 24th for an event commemorating the Armenian Genocide. We have arranged a talk at 6:00 pm on the historical significance of the Armenian Genocide. This is an important opportunity to learn more about this tragic subject and engage in thoughtful reflection. In addition to the discussion, there will be an abundance of authentic Armenian cuisine available for all attendees to help themselves to. Following the talk, we also invite you to join us for a candlelight vigil at the University Chapel at 7:00 pm. This gathering will honor the memory of the 1.5 million victims of the Armenian Genocide and serve as a powerful reminder of the importance of unity and understanding in the face of such adversity. We hope you will consider attending this important event and reflecting with us as a community. Please feel free to share this invitation with other students who may be interested in participating.Thank you,Katya HovnanianPrinceton Armenian Society Co-President<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "April",
+            " 24",
+            "th"
+        ],
+        "gold_output": [
+            "April",
+            " 24",
+            "th",
+            " 6",
+            ":",
+            "00",
+            " pm",
+            " 7",
+            ":",
+            "00",
+            " pm"
+        ]
+    },
+    {
+        "input": [
+            "Join the Alexander Hamilton Society on Friday, April 21st at 5pm in Robertson 001 for an exciting discussion of The Biden Administration’s Foreign Policy with Kori Schake, Senior Fellow and Director of Defense Policy Studies at the American Enterprise Institute. There will be boba for the first 30 attendees. Please RSVP here! As always, please reach out to me at czhunt@princeton.edu with any questions or if you would like to be added to our email list!Best,Calvin HuntPresident of Princeton AHS<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Roberts",
+            "on",
+            " 00",
+            "1"
+        ],
+        "gold_output": [
+            "Roberts",
+            "on",
+            " 00",
+            "1"
+        ]
+    },
+    {
+        "input": [
+            "tl;dr -- Bystander CPR, AED, and Stroke Recognition Training this Saturday at JRR; spots are limited so sign up now!Hi everyone!Princeton Emergency Medicine (PEM) will be hosting a free-of-charge Bystander CPR, AED, and Stroke Recognition Training on-campus this Saturday, April 22nd from 4:00-5:30pm in JRR 198.This course teaches bystanders how to recognize a cardiovascular arrest event; how to do effective CPR on adults; how to properly use an AED; and how to recognize and respond to signs of stroke. These essential skills conducted by bystanders in the field are what make a difference when it comes to medical emergency events, and knowing these skills may help save a life! The course will be led by instructors from MedicZero, a first-aid training organization dedicated to teaching the skills necessary for bystander intervention. Those who successfully complete the session will receive certification in CPR, AED Use, and Stroke Recognition from MedicZero. All are welcome to come and learn these life-saving skills.If you are interested in enrolling, please sign up here. Enrollment will be on a first-come, first-served basis until spots fill up. We anticipate interest in this course greatly exceeding the number of spots available, so please only sign up if you can commit to attending:Bystander CPR, AED, and Stroke Recognition Training - Saturday, April 22nd, 4:00pm - 5:30pm - Julis Romo Rabinowitz (JRR) Building, Room 198Once enrolled, we'll be in touch before the training session with further details. Please feel free to email us at emergmed@princeton.edu with any questions.Thank you!Best,Princeton Emergency Medicine (PEM)<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Medic",
+            "ine",
+            "Zero"
+        ],
+        "gold_output": [
+            "Princ",
+            "eton",
+            " Emergency",
+            " Medicine",
+            " (",
+            "P",
+            "EM",
+            ")"
+        ]
+    },
+    {
+        "input": [
+            "Watch the ORIGINAL WORK by Aaron Ventresca ‘24 come to life onstage!Performances are NEXT WEEK: THURSDAY(4/27) and FRIDAY(4/28) at 8PM and SATURDAY(4/29) at 2PM in the Frist Theater. Tickets are $8 or free through Pathway to the Arts at tickets.princeton.edu!What is Laid Off About?What happens when a construction worker meets a professional ballet dancer?Bobby Tuna lives with his eccentric mother, struggling to find contracting jobs during the financial crisis of 2008. Along with his wise-cracking, hockey-loving friends, he begins working on renovations for the city’s ballet company. He unexpectedly finds himself falling for Dallas, a corps de ballet member in the company… and the girlfriend of his boss Derill Mafa. With his hilarious henchmen Morton and Goon, Derill Mafa will do whatever he can to thwart the growing relationship between Bobby and Dallas. Tightly-knit friendships, shared financial hardships, and comedic antics bring the characters to life when two vastly different worlds—building and ballet—collide.We look forward to seeing you at the shows!Princeton University PlayersWebsite: pup.princeton.edu<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "F",
+            "ris",
+            "st",
+            " Theater"
+        ],
+        "gold_output": [
+            "F",
+            "rist",
+            " Theater"
+        ]
+    },
+    {
+        "input": [
+            "fantastic flavors:• rose black tea• peach apricot white tea• 铁观音 tie guan yin oolong tea!in the campus club backyard, 5pm thursday april 20th!<|endoftext|>When does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "5",
+            "pm",
+            " th",
+            "ursday",
+            " apr",
+            "il",
+            " 20",
+            "th"
+        ],
+        "gold_output": [
+            "5",
+            "pm",
+            " th",
+            "ursday",
+            " apr",
+            "il",
+            " 20",
+            "th"
+        ]
+    },
+    {
+        "input": [
+            "Hey Princeton!This Saturday, 4/15/23, the Anime-Manga Club will be hosting an anime dubbing panel with voice actor Aaron Dismuke:------------Additional Information:Aaron Dismuke is an American voice actor, adaptive writer and director who works primarily with Funimation Entertainment. He got his start voice acting at age 9, as Hiro Sohma in Fruits Basket, moving on to voice Alphonse Elric in Fullmetal Alchemist by age 12. Since then, he’s voiced various roles including Leonardo Watch in Blood Blockade Battlefront, Van Fanel in Escaflowne (2016 version), Oscar in RWBY, Reinhard in Legend of the Galactic Heroes, Yo Takami in Deadman Wonderland, Twelve in Terror in Residence, Arslan in The Heroic Legend of Arslan, and Lucifer in Devil is a Part Timer. He worked as assistant director for Ninja Slayer and Fairy Tail, and director for Shomin Sample and Nanbaka. He’s part of the ADR writing teams that adapted scripts for Fairy Tail, Nanbaka, Tokyo Ghoul, and Full Metal Panic! Invisible Victory.We'd love to have your interest and questions at the event!Looking forward to seeing you, BLANK CREW 『 』<|endoftext|>Who are the guests of this event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "An",
+            "ime",
+            "-",
+            "M",
+            "anga",
+            " Club"
+        ],
+        "gold_output": [
+            "Aaron",
+            " Dism",
+            "uke"
+        ]
+    },
+    {
+        "input": [
+            "Season 11, Episode 4 of All-Nighter with Tiffany Huang and co-host Asher Muldoon TONIGHT AT 10:45 PM!Friday April 21st- Frist Theater 10:45 PM-12 AM. Tickets are free!All-Nighter is Princeton's first and only late-night talk show. We run 5 shows in Frist Theater throughout the year, and each episode features interviews with a guest, as well as student performances, comedy sketches, and more!This is the fourth episode of Season 11 with Tiffany Huang and co-host Asher MuldoonGuests include Nica Evans '24 of the Black Theater Collective, musical guest Imaan Khasru '23, and a solo performance from Ramona Jade, as well as the many student actors who will be featured in our sketches. The show is completely FREE and open to the student body. Free tickets can be reserved at tickets.princeton.edu! No login required.We can't wait to see you there!-- The All-Nighter Team<|endoftext|>What is the hosting organization of the event?<|endoftext|>"
+        ],
+        "pred_output": [
+            "As",
+            "her",
+            " Mu",
+            "ld",
+            "oon",
+            " T",
+            "ON",
+            "IGHT",
+            " AT",
+            " 10",
+            ":",
+            "45",
+            " PM"
+        ],
+        "gold_output": [
+            "All",
+            "-",
+            "N",
+            "ighter",
+            " Team"
+        ]
+    },
+    {
+        "input": [
+            "Hi Everyone!The Tory is hosting a lunch discussion tomorrow (April 18) at the Center for Jewish Life from 12:30-1:30 with Neil Rogachevsky, a WSJ contributor and the associate director at the Straus Center for Torah and Western Thought at Yeshiva University. He teaches Israel Studies and political thought and recently came out with a new book on the history and political theory of the founding of the State of Israel. There are a couple of spots left, so fill out the following form if you’re interested in attending! It should be a great discussion (with free meal swipes for upperclassmen!)<|endoftext|>Where does this event take place?<|endoftext|>"
+        ],
+        "pred_output": [
+            "Center",
+            " for",
+            " Jewish",
+            " Life"
+        ],
+        "gold_output": [
+            "Center",
+            " for",
+            " Jewish",
+            " Life"
+        ]
+    }
+]
