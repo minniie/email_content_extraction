@@ -2,11 +2,11 @@
 
 ## About
 
-COS485 Final Project (Spring 2023)
+Princeton University COS485 Final Project (Spring 2023)
 
 ## Authors
 
-Min Lee '23
+Min Lee '23 
 
 Simon Park '23
 
